@@ -1,4 +1,4958 @@
 {
-  "last_synced": 0,
-  "rides": []
+  "last_synced": 1788995089,
+  "rides": [
+    {
+      "id": 906829523,
+      "type": "ride",
+      "date": "2010-01-01",
+      "title": "Blocked Road changes plan",
+      "body": [],
+      "stats": {
+        "distance": "36.0 km",
+        "elevation": "555 m",
+        "time": "3h 36m"
+      },
+      "strava_url": "https://www.strava.com/activities/906829523"
+    },
+    {
+      "id": 22054434,
+      "type": "ride",
+      "date": "2012-09-15",
+      "title": "Ride to Slapton",
+      "body": [],
+      "stats": {
+        "distance": "52.7 km",
+        "elevation": "923 m",
+        "time": "3h 23m"
+      },
+      "strava_url": "https://www.strava.com/activities/22054434"
+    },
+    {
+      "id": 22145353,
+      "type": "ride",
+      "date": "2012-09-16",
+      "title": "plymoth road to town",
+      "body": [],
+      "stats": {
+        "distance": "1.4 km",
+        "elevation": "12 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/22145353"
+    },
+    {
+      "id": 22273094,
+      "type": "ride",
+      "date": "2012-09-17",
+      "title": "17/09/2012",
+      "body": [],
+      "stats": {
+        "distance": "5.1 km",
+        "elevation": "56 m",
+        "time": "37m"
+      },
+      "strava_url": "https://www.strava.com/activities/22273094"
+    },
+    {
+      "id": 23444271,
+      "type": "ride",
+      "date": "2012-09-25",
+      "title": "to school",
+      "body": [],
+      "stats": {
+        "distance": "1.7 km",
+        "elevation": "31 m",
+        "time": "6m"
+      },
+      "strava_url": "https://www.strava.com/activities/23444271"
+    },
+    {
+      "id": 23451919,
+      "type": "ride",
+      "date": "2012-09-29",
+      "title": "29/09/2012",
+      "body": [],
+      "stats": {
+        "distance": "1.3 km",
+        "elevation": "0 m",
+        "time": "5m"
+      },
+      "strava_url": "https://www.strava.com/activities/23451919"
+    },
+    {
+      "id": 23561185,
+      "type": "ride",
+      "date": "2012-09-30",
+      "title": "30/09/2012",
+      "body": [],
+      "stats": {
+        "distance": "17.5 km",
+        "elevation": "459 m",
+        "time": "1h 50m"
+      },
+      "strava_url": "https://www.strava.com/activities/23561185"
+    },
+    {
+      "id": 39696749,
+      "type": "ride",
+      "date": "2013-02-03",
+      "title": "03/02/2013 Totnes, Devon, United Kingdom",
+      "body": [],
+      "stats": {
+        "distance": "35.0 km",
+        "elevation": "702 m",
+        "time": "1h 38m"
+      },
+      "strava_url": "https://www.strava.com/activities/39696749"
+    },
+    {
+      "id": 40431445,
+      "type": "ride",
+      "date": "2013-02-10",
+      "title": "10/02/2013",
+      "body": [],
+      "stats": {
+        "distance": "1.7 km",
+        "elevation": "44 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/40431445"
+    },
+    {
+      "id": 856302037,
+      "type": "ride",
+      "date": "2013-05-07",
+      "title": "Night Ride",
+      "body": [],
+      "stats": {
+        "distance": "21.0 km",
+        "elevation": "406 m",
+        "time": "1h 16m"
+      },
+      "strava_url": "https://www.strava.com/activities/856302037"
+    },
+    {
+      "id": 56251118,
+      "type": "ride",
+      "date": "2013-05-25",
+      "title": "25/05/2013 Totnes, Devon, United Kingdom",
+      "body": [],
+      "stats": {
+        "distance": "32.5 km",
+        "elevation": "583 m",
+        "time": "2h 42m"
+      },
+      "strava_url": "https://www.strava.com/activities/56251118"
+    },
+    {
+      "id": 856290193,
+      "type": "ride",
+      "date": "2014-03-06",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "24.5 km",
+        "elevation": "416 m",
+        "time": "1h 42m"
+      },
+      "strava_url": "https://www.strava.com/activities/856290193"
+    },
+    {
+      "id": 906814341,
+      "type": "ride",
+      "date": "2014-05-15",
+      "title": "Thursday afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "31.0 km",
+        "elevation": "526 m",
+        "time": "2h 10m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814341"
+    },
+    {
+      "id": 906814351,
+      "type": "ride",
+      "date": "2014-07-24",
+      "title": "Newton St Ferrers Ride",
+      "body": [],
+      "stats": {
+        "distance": "75.6 km",
+        "elevation": "1178 m",
+        "time": "4h 47m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814351"
+    },
+    {
+      "id": 906814304,
+      "type": "ride",
+      "date": "2015-02-22",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "28.2 km",
+        "elevation": "315 m",
+        "time": "1h 49m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814304"
+    },
+    {
+      "id": 906814324,
+      "type": "ride",
+      "date": "2015-03-08",
+      "title": "Muddy Ride towards Denbury",
+      "body": [],
+      "stats": {
+        "distance": "36.2 km",
+        "elevation": "498 m",
+        "time": "2h 14m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814324"
+    },
+    {
+      "id": 906814273,
+      "type": "ride",
+      "date": "2015-04-13",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.4 km",
+        "elevation": "0 m",
+        "time": "19m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814273"
+    },
+    {
+      "id": 906814337,
+      "type": "ride",
+      "date": "2015-05-17",
+      "title": "Evening Ride over the moor",
+      "body": [],
+      "stats": {
+        "distance": "33.3 km",
+        "elevation": "597 m",
+        "time": "2h 30m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814337"
+    },
+    {
+      "id": 906814296,
+      "type": "ride",
+      "date": "2015-07-30",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "12.2 km",
+        "elevation": "219 m",
+        "time": "1h 26m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814296"
+    },
+    {
+      "id": 906814338,
+      "type": "ride",
+      "date": "2015-08-04",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "15.7 km",
+        "elevation": "278 m",
+        "time": "1h 16m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814338"
+    },
+    {
+      "id": 906814331,
+      "type": "ride",
+      "date": "2015-08-08",
+      "title": "Ride TO South Milton Sands",
+      "body": [],
+      "stats": {
+        "distance": "28.3 km",
+        "elevation": "451 m",
+        "time": "1h 55m"
+      },
+      "strava_url": "https://www.strava.com/activities/906814331"
+    },
+    {
+      "id": 856215165,
+      "type": "ride",
+      "date": "2015-08-08",
+      "title": "Ride to South Milton Sands",
+      "body": [],
+      "stats": {
+        "distance": "57.7 km",
+        "elevation": "991 m",
+        "time": "3h 43m"
+      },
+      "strava_url": "https://www.strava.com/activities/856215165"
+    },
+    {
+      "id": 856225988,
+      "type": "ride",
+      "date": "2015-08-11",
+      "title": "To Start Point. I did get back though.",
+      "body": [],
+      "stats": {
+        "distance": "39.8 km",
+        "elevation": "763 m",
+        "time": "2h 26m"
+      },
+      "strava_url": "https://www.strava.com/activities/856225988"
+    },
+    {
+      "id": 856244149,
+      "type": "ride",
+      "date": "2015-08-11",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.2 km",
+        "elevation": "346 m",
+        "time": "1h 7m"
+      },
+      "strava_url": "https://www.strava.com/activities/856244149"
+    },
+    {
+      "id": 856210739,
+      "type": "ride",
+      "date": "2016-03-10",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "12.9 km",
+        "elevation": "250 m",
+        "time": "46m"
+      },
+      "strava_url": "https://www.strava.com/activities/856210739"
+    },
+    {
+      "id": 856200418,
+      "type": "ride",
+      "date": "2016-06-26",
+      "title": "Sunday Morning Group Ride",
+      "body": [],
+      "stats": {
+        "distance": "33.6 km",
+        "elevation": "436 m",
+        "time": "2h 29m"
+      },
+      "strava_url": "https://www.strava.com/activities/856200418"
+    },
+    {
+      "id": 856198426,
+      "type": "ride",
+      "date": "2016-07-19",
+      "title": "Afternoon Ride over Haytor.",
+      "body": [],
+      "stats": {
+        "distance": "29.7 km",
+        "elevation": "593 m",
+        "time": "1h 50m"
+      },
+      "strava_url": "https://www.strava.com/activities/856198426"
+    },
+    {
+      "id": 856194726,
+      "type": "ride",
+      "date": "2016-11-27",
+      "title": "Group Sunday Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "32.5 km",
+        "elevation": "443 m",
+        "time": "2h 31m"
+      },
+      "strava_url": "https://www.strava.com/activities/856194726"
+    },
+    {
+      "id": 856196415,
+      "type": "ride",
+      "date": "2016-12-11",
+      "title": "Sunday Morning ride with the women",
+      "body": [],
+      "stats": {
+        "distance": "33.9 km",
+        "elevation": "399 m",
+        "time": "2h 23m"
+      },
+      "strava_url": "https://www.strava.com/activities/856196415"
+    },
+    {
+      "id": 856181891,
+      "type": "ride",
+      "date": "2017-02-05",
+      "title": "Sunday Morning Group Ride",
+      "body": [],
+      "stats": {
+        "distance": "29.8 km",
+        "elevation": "396 m",
+        "time": "2h 10m"
+      },
+      "strava_url": "https://www.strava.com/activities/856181891"
+    },
+    {
+      "id": 906837334,
+      "type": "ride",
+      "date": "2017-03-19",
+      "title": "Sunday Denbury Loop with closed road diversion",
+      "body": [],
+      "stats": {
+        "distance": "36.0 km",
+        "elevation": "457 m",
+        "time": "3h 36m"
+      },
+      "strava_url": "https://www.strava.com/activities/906837334"
+    },
+    {
+      "id": 10773643058,
+      "type": "ride",
+      "date": "2022-07-16",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.7 km",
+        "elevation": "291 m",
+        "time": "58m"
+      },
+      "strava_url": "https://www.strava.com/activities/10773643058"
+    },
+    {
+      "id": 7709214831,
+      "type": "ride",
+      "date": "2022-08-03",
+      "title": "Early Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "29.3 km",
+        "elevation": "113 m",
+        "time": "1h 41m"
+      },
+      "strava_url": "https://www.strava.com/activities/7709214831"
+    },
+    {
+      "id": 7709131031,
+      "type": "ride",
+      "date": "2022-08-04",
+      "title": "To Sutton on the Forest with Rachel",
+      "body": [],
+      "stats": {
+        "distance": "39.3 km",
+        "elevation": "80 m",
+        "time": "2h 2m"
+      },
+      "strava_url": "https://www.strava.com/activities/7709131031"
+    },
+    {
+      "id": 7709080093,
+      "type": "ride",
+      "date": "2022-08-05",
+      "title": "Wetherby with Rachel",
+      "body": [],
+      "stats": {
+        "distance": "59.6 km",
+        "elevation": "249 m",
+        "time": "3h 18m"
+      },
+      "strava_url": "https://www.strava.com/activities/7709080093"
+    },
+    {
+      "id": 7706370878,
+      "type": "ride",
+      "date": "2022-08-21",
+      "title": "Ride to the church on the hill",
+      "body": [],
+      "stats": {
+        "distance": "44.7 km",
+        "elevation": "505 m",
+        "time": "2h 40m"
+      },
+      "strava_url": "https://www.strava.com/activities/7706370878"
+    },
+    {
+      "id": 7706370824,
+      "type": "ride",
+      "date": "2022-08-21",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.3 km",
+        "elevation": "130 m",
+        "time": "24m"
+      },
+      "strava_url": "https://www.strava.com/activities/7706370824"
+    },
+    {
+      "id": 7706370853,
+      "type": "ride",
+      "date": "2022-08-22",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.4 km",
+        "elevation": "0 m",
+        "time": "5m"
+      },
+      "strava_url": "https://www.strava.com/activities/7706370853"
+    },
+    {
+      "id": 7706370840,
+      "type": "ride",
+      "date": "2022-08-22",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.4 km",
+        "elevation": "72 m",
+        "time": "10m"
+      },
+      "strava_url": "https://www.strava.com/activities/7706370840"
+    },
+    {
+      "id": 7706370828,
+      "type": "ride",
+      "date": "2022-08-22",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.0 km",
+        "elevation": "0 m",
+        "time": "11m"
+      },
+      "strava_url": "https://www.strava.com/activities/7706370828"
+    },
+    {
+      "id": 7726793697,
+      "type": "ride",
+      "date": "2022-08-30",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.8 km",
+        "elevation": "10 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/7726793697"
+    },
+    {
+      "id": 7726793700,
+      "type": "ride",
+      "date": "2022-08-30",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.8 km",
+        "elevation": "48 m",
+        "time": "7m"
+      },
+      "strava_url": "https://www.strava.com/activities/7726793700"
+    },
+    {
+      "id": 7775610874,
+      "type": "ride",
+      "date": "2022-09-07",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.0 km",
+        "elevation": "6 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/7775610874"
+    },
+    {
+      "id": 7948869571,
+      "type": "ride",
+      "date": "2022-09-15",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.1 km",
+        "elevation": "21 m",
+        "time": "23m"
+      },
+      "strava_url": "https://www.strava.com/activities/7948869571"
+    },
+    {
+      "id": 7948869651,
+      "type": "ride",
+      "date": "2022-09-21",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.2 km",
+        "elevation": "68 m",
+        "time": "19m"
+      },
+      "strava_url": "https://www.strava.com/activities/7948869651"
+    },
+    {
+      "id": 7960978126,
+      "type": "ride",
+      "date": "2022-10-13",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.0 km",
+        "elevation": "97 m",
+        "time": "29m"
+      },
+      "strava_url": "https://www.strava.com/activities/7960978126"
+    },
+    {
+      "id": 7967057696,
+      "type": "ride",
+      "date": "2022-10-14",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.4 km",
+        "elevation": "344 m",
+        "time": "1h 6m"
+      },
+      "strava_url": "https://www.strava.com/activities/7967057696"
+    },
+    {
+      "id": 7993699062,
+      "type": "ride",
+      "date": "2022-10-16",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "14.4 km",
+        "elevation": "42 m",
+        "time": "1h 22m"
+      },
+      "strava_url": "https://www.strava.com/activities/7993699062"
+    },
+    {
+      "id": 7993699120,
+      "type": "ride",
+      "date": "2022-10-18",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.3 km",
+        "elevation": "45 m",
+        "time": "15m"
+      },
+      "strava_url": "https://www.strava.com/activities/7993699120"
+    },
+    {
+      "id": 7993699134,
+      "type": "ride",
+      "date": "2022-10-20",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.9 km",
+        "elevation": "48 m",
+        "time": "36m"
+      },
+      "strava_url": "https://www.strava.com/activities/7993699134"
+    },
+    {
+      "id": 8056527709,
+      "type": "ride",
+      "date": "2022-11-01",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.8 km",
+        "elevation": "16 m",
+        "time": "6m"
+      },
+      "strava_url": "https://www.strava.com/activities/8056527709"
+    },
+    {
+      "id": 8056527762,
+      "type": "ride",
+      "date": "2022-11-01",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.0 km",
+        "elevation": "20 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/8056527762"
+    },
+    {
+      "id": 8144735617,
+      "type": "ride",
+      "date": "2022-11-12",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.8 km",
+        "elevation": "43 m",
+        "time": "35m"
+      },
+      "strava_url": "https://www.strava.com/activities/8144735617"
+    },
+    {
+      "id": 8144735519,
+      "type": "ride",
+      "date": "2022-11-12",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.9 km",
+        "elevation": "35 m",
+        "time": "11m"
+      },
+      "strava_url": "https://www.strava.com/activities/8144735519"
+    },
+    {
+      "id": 8144735682,
+      "type": "ride",
+      "date": "2022-11-12",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.4 km",
+        "elevation": "4 m",
+        "time": "5m"
+      },
+      "strava_url": "https://www.strava.com/activities/8144735682"
+    },
+    {
+      "id": 8144735704,
+      "type": "ride",
+      "date": "2022-11-18",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.5 km",
+        "elevation": "39 m",
+        "time": "44m"
+      },
+      "strava_url": "https://www.strava.com/activities/8144735704"
+    },
+    {
+      "id": 8204693585,
+      "type": "ride",
+      "date": "2022-11-24",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.5 km",
+        "elevation": "100 m",
+        "time": "24m"
+      },
+      "strava_url": "https://www.strava.com/activities/8204693585"
+    },
+    {
+      "id": 8204693566,
+      "type": "ride",
+      "date": "2022-11-26",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.9 km",
+        "elevation": "29 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/8204693566"
+    },
+    {
+      "id": 8493538132,
+      "type": "ride",
+      "date": "2022-12-15",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.4 km",
+        "elevation": "206 m",
+        "time": "57m"
+      },
+      "strava_url": "https://www.strava.com/activities/8493538132"
+    },
+    {
+      "id": 8493501504,
+      "type": "ride",
+      "date": "2023-01-10",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.5 km",
+        "elevation": "8 m",
+        "time": "4m"
+      },
+      "strava_url": "https://www.strava.com/activities/8493501504"
+    },
+    {
+      "id": 8493511993,
+      "type": "ride",
+      "date": "2023-01-31",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.0 km",
+        "elevation": "161 m",
+        "time": "40m"
+      },
+      "strava_url": "https://www.strava.com/activities/8493511993"
+    },
+    {
+      "id": 8604418447,
+      "type": "ride",
+      "date": "2023-02-04",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "18.1 km",
+        "elevation": "261 m",
+        "time": "1h 29m"
+      },
+      "strava_url": "https://www.strava.com/activities/8604418447"
+    },
+    {
+      "id": 8604418433,
+      "type": "ride",
+      "date": "2023-02-04",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "17.9 km",
+        "elevation": "81 m",
+        "time": "1h 15m"
+      },
+      "strava_url": "https://www.strava.com/activities/8604418433"
+    },
+    {
+      "id": 8604418408,
+      "type": "ride",
+      "date": "2023-02-21",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.9 km",
+        "elevation": "7 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/8604418408"
+    },
+    {
+      "id": 8604418400,
+      "type": "ride",
+      "date": "2023-02-22",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.8 km",
+        "elevation": "12 m",
+        "time": "10m"
+      },
+      "strava_url": "https://www.strava.com/activities/8604418400"
+    },
+    {
+      "id": 8614553414,
+      "type": "ride",
+      "date": "2023-02-23",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.2 km",
+        "elevation": "79 m",
+        "time": "32m"
+      },
+      "strava_url": "https://www.strava.com/activities/8614553414"
+    },
+    {
+      "id": 8638185256,
+      "type": "ride",
+      "date": "2023-02-25",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.9 km",
+        "elevation": "37 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/8638185256"
+    },
+    {
+      "id": 8638185207,
+      "type": "ride",
+      "date": "2023-02-25",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.2 km",
+        "elevation": "0 m",
+        "time": "5m"
+      },
+      "strava_url": "https://www.strava.com/activities/8638185207"
+    },
+    {
+      "id": 8638185239,
+      "type": "ride",
+      "date": "2023-02-28",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.2 km",
+        "elevation": "11 m",
+        "time": "10m"
+      },
+      "strava_url": "https://www.strava.com/activities/8638185239"
+    },
+    {
+      "id": 8641974152,
+      "type": "ride",
+      "date": "2023-03-01",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.7 km",
+        "elevation": "53 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/8641974152"
+    },
+    {
+      "id": 8653102996,
+      "type": "ride",
+      "date": "2023-03-02",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.9 km",
+        "elevation": "70 m",
+        "time": "27m"
+      },
+      "strava_url": "https://www.strava.com/activities/8653102996"
+    },
+    {
+      "id": 8653103078,
+      "type": "ride",
+      "date": "2023-03-03",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "22.6 km",
+        "elevation": "238 m",
+        "time": "1h 41m"
+      },
+      "strava_url": "https://www.strava.com/activities/8653103078"
+    },
+    {
+      "id": 8841147576,
+      "type": "ride",
+      "date": "2023-03-17",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.5 km",
+        "elevation": "14 m",
+        "time": "20m"
+      },
+      "strava_url": "https://www.strava.com/activities/8841147576"
+    },
+    {
+      "id": 8841147514,
+      "type": "ride",
+      "date": "2023-03-17",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.0 km",
+        "elevation": "0 m",
+        "time": "0m"
+      },
+      "strava_url": "https://www.strava.com/activities/8841147514"
+    },
+    {
+      "id": 8841147502,
+      "type": "ride",
+      "date": "2023-03-18",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.2 km",
+        "elevation": "36 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/8841147502"
+    },
+    {
+      "id": 9192031992,
+      "type": "ride",
+      "date": "2023-04-06",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.3 km",
+        "elevation": "18 m",
+        "time": "20m"
+      },
+      "strava_url": "https://www.strava.com/activities/9192031992"
+    },
+    {
+      "id": 9192031988,
+      "type": "ride",
+      "date": "2023-04-06",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.9 km",
+        "elevation": "19 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/9192031988"
+    },
+    {
+      "id": 9192032267,
+      "type": "ride",
+      "date": "2023-04-06",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.2 km",
+        "elevation": "23 m",
+        "time": "27m"
+      },
+      "strava_url": "https://www.strava.com/activities/9192032267"
+    },
+    {
+      "id": 9360849331,
+      "type": "ride",
+      "date": "2023-06-03",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "15.2 km",
+        "elevation": "19 m",
+        "time": "1h 22m"
+      },
+      "strava_url": "https://www.strava.com/activities/9360849331"
+    },
+    {
+      "id": 9360849319,
+      "type": "ride",
+      "date": "2023-06-26",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.8 km",
+        "elevation": "109 m",
+        "time": "42m"
+      },
+      "strava_url": "https://www.strava.com/activities/9360849319"
+    },
+    {
+      "id": 9360849315,
+      "type": "ride",
+      "date": "2023-06-27",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.0 km",
+        "elevation": "179 m",
+        "time": "55m"
+      },
+      "strava_url": "https://www.strava.com/activities/9360849315"
+    },
+    {
+      "id": 9360848408,
+      "type": "ride",
+      "date": "2023-06-29",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.5 km",
+        "elevation": "53 m",
+        "time": "10m"
+      },
+      "strava_url": "https://www.strava.com/activities/9360848408"
+    },
+    {
+      "id": 9360848431,
+      "type": "ride",
+      "date": "2023-06-29",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.8 km",
+        "elevation": "158 m",
+        "time": "1h 9m"
+      },
+      "strava_url": "https://www.strava.com/activities/9360848431"
+    },
+    {
+      "id": 9364818701,
+      "type": "ride",
+      "date": "2023-06-30",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "12.7 km",
+        "elevation": "161 m",
+        "time": "1h 22m"
+      },
+      "strava_url": "https://www.strava.com/activities/9364818701"
+    },
+    {
+      "id": 9364818633,
+      "type": "ride",
+      "date": "2023-06-30",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.8 km",
+        "elevation": "5 m",
+        "time": "5m"
+      },
+      "strava_url": "https://www.strava.com/activities/9364818633"
+    },
+    {
+      "id": 9364818692,
+      "type": "ride",
+      "date": "2023-06-30",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.4 km",
+        "elevation": "80 m",
+        "time": "39m"
+      },
+      "strava_url": "https://www.strava.com/activities/9364818692"
+    },
+    {
+      "id": 9364818604,
+      "type": "ride",
+      "date": "2023-06-30",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.4 km",
+        "elevation": "48 m",
+        "time": "24m"
+      },
+      "strava_url": "https://www.strava.com/activities/9364818604"
+    },
+    {
+      "id": 9374945223,
+      "type": "ride",
+      "date": "2023-07-01",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "7.4 km",
+        "elevation": "17 m",
+        "time": "37m"
+      },
+      "strava_url": "https://www.strava.com/activities/9374945223"
+    },
+    {
+      "id": 9422998059,
+      "type": "ride",
+      "date": "2023-07-03",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.4 km",
+        "elevation": "27 m",
+        "time": "10m"
+      },
+      "strava_url": "https://www.strava.com/activities/9422998059"
+    },
+    {
+      "id": 9422998471,
+      "type": "ride",
+      "date": "2023-07-04",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.1 km",
+        "elevation": "13 m",
+        "time": "16m"
+      },
+      "strava_url": "https://www.strava.com/activities/9422998471"
+    },
+    {
+      "id": 9422998005,
+      "type": "ride",
+      "date": "2023-07-05",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.7 km",
+        "elevation": "20 m",
+        "time": "6m"
+      },
+      "strava_url": "https://www.strava.com/activities/9422998005"
+    },
+    {
+      "id": 9422998449,
+      "type": "ride",
+      "date": "2023-07-06",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.9 km",
+        "elevation": "107 m",
+        "time": "41m"
+      },
+      "strava_url": "https://www.strava.com/activities/9422998449"
+    },
+    {
+      "id": 9422998501,
+      "type": "ride",
+      "date": "2023-07-06",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.9 km",
+        "elevation": "49 m",
+        "time": "4m"
+      },
+      "strava_url": "https://www.strava.com/activities/9422998501"
+    },
+    {
+      "id": 9436292843,
+      "type": "ride",
+      "date": "2023-07-10",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.6 km",
+        "elevation": "51 m",
+        "time": "11m"
+      },
+      "strava_url": "https://www.strava.com/activities/9436292843"
+    },
+    {
+      "id": 9436293184,
+      "type": "ride",
+      "date": "2023-07-10",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.0 km",
+        "elevation": "60 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/9436293184"
+    },
+    {
+      "id": 9436292541,
+      "type": "ride",
+      "date": "2023-07-10",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.6 km",
+        "elevation": "57 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/9436292541"
+    },
+    {
+      "id": 9436293203,
+      "type": "ride",
+      "date": "2023-07-10",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.9 km",
+        "elevation": "73 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/9436293203"
+    },
+    {
+      "id": 9436292979,
+      "type": "ride",
+      "date": "2023-07-11",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.3 km",
+        "elevation": "175 m",
+        "time": "57m"
+      },
+      "strava_url": "https://www.strava.com/activities/9436292979"
+    },
+    {
+      "id": 9437668909,
+      "type": "ride",
+      "date": "2023-07-12",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "7.8 km",
+        "elevation": "155 m",
+        "time": "47m"
+      },
+      "strava_url": "https://www.strava.com/activities/9437668909"
+    },
+    {
+      "id": 9459202710,
+      "type": "ride",
+      "date": "2023-07-13",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.8 km",
+        "elevation": "269 m",
+        "time": "1h 33m"
+      },
+      "strava_url": "https://www.strava.com/activities/9459202710"
+    },
+    {
+      "id": 9479198763,
+      "type": "ride",
+      "date": "2023-07-18",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.7 km",
+        "elevation": "54 m",
+        "time": "20m"
+      },
+      "strava_url": "https://www.strava.com/activities/9479198763"
+    },
+    {
+      "id": 10766841353,
+      "type": "ride",
+      "date": "2024-02-14",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.9 km",
+        "elevation": "3 m",
+        "time": "15m"
+      },
+      "strava_url": "https://www.strava.com/activities/10766841353"
+    },
+    {
+      "id": 10766840388,
+      "type": "ride",
+      "date": "2024-02-15",
+      "title": "First eBike Ride",
+      "body": [],
+      "stats": {
+        "distance": "38.9 km",
+        "elevation": "906 m",
+        "time": "2h 5m"
+      },
+      "strava_url": "https://www.strava.com/activities/10766840388"
+    },
+    {
+      "id": 10772848633,
+      "type": "ride",
+      "date": "2024-02-16",
+      "title": "Stowford Circuit",
+      "body": [],
+      "stats": {
+        "distance": "38.6 km",
+        "elevation": "723 m",
+        "time": "2h 0m"
+      },
+      "strava_url": "https://www.strava.com/activities/10772848633"
+    },
+    {
+      "id": 10794280882,
+      "type": "ride",
+      "date": "2024-02-19",
+      "title": "Dartington Loop",
+      "body": [],
+      "stats": {
+        "distance": "8.4 km",
+        "elevation": "143 m",
+        "time": "19m"
+      },
+      "strava_url": "https://www.strava.com/activities/10794280882"
+    },
+    {
+      "id": 10821559935,
+      "type": "ride",
+      "date": "2024-02-23",
+      "title": "Blackpool Sands & Slapton",
+      "body": [],
+      "stats": {
+        "distance": "52.3 km",
+        "elevation": "1178 m",
+        "time": "3h 3m"
+      },
+      "strava_url": "https://www.strava.com/activities/10821559935"
+    },
+    {
+      "id": 10841279582,
+      "type": "ride",
+      "date": "2024-02-26",
+      "title": "Commute No.1",
+      "body": [],
+      "stats": {
+        "distance": "17.0 km",
+        "elevation": "304 m",
+        "time": "54m"
+      },
+      "strava_url": "https://www.strava.com/activities/10841279582"
+    },
+    {
+      "id": 10841054324,
+      "type": "ride",
+      "date": "2024-02-26",
+      "title": "commute no.1 to home",
+      "body": [],
+      "stats": {
+        "distance": "17.3 km",
+        "elevation": "302 m",
+        "time": "57m"
+      },
+      "strava_url": "https://www.strava.com/activities/10841054324"
+    },
+    {
+      "id": 10846257333,
+      "type": "ride",
+      "date": "2024-02-27",
+      "title": "Commute No. 2 Out",
+      "body": [],
+      "stats": {
+        "distance": "17.3 km",
+        "elevation": "336 m",
+        "time": "57m"
+      },
+      "strava_url": "https://www.strava.com/activities/10846257333"
+    },
+    {
+      "id": 10847990696,
+      "type": "ride",
+      "date": "2024-02-27",
+      "title": "Commute No. 2 Back home",
+      "body": [],
+      "stats": {
+        "distance": "15.9 km",
+        "elevation": "243 m",
+        "time": "42m"
+      },
+      "strava_url": "https://www.strava.com/activities/10847990696"
+    },
+    {
+      "id": 10853250507,
+      "type": "ride",
+      "date": "2024-02-28",
+      "title": "Commute No. 3 Out",
+      "body": [],
+      "stats": {
+        "distance": "17.1 km",
+        "elevation": "276 m",
+        "time": "49m"
+      },
+      "strava_url": "https://www.strava.com/activities/10853250507"
+    },
+    {
+      "id": 10855243897,
+      "type": "ride",
+      "date": "2024-02-28",
+      "title": "Commute No 3. home",
+      "body": [],
+      "stats": {
+        "distance": "17.0 km",
+        "elevation": "215 m",
+        "time": "44m"
+      },
+      "strava_url": "https://www.strava.com/activities/10855243897"
+    },
+    {
+      "id": 10859985148,
+      "type": "ride",
+      "date": "2024-02-29",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.1 km",
+        "elevation": "241 m",
+        "time": "47m"
+      },
+      "strava_url": "https://www.strava.com/activities/10859985148"
+    },
+    {
+      "id": 10861745585,
+      "type": "ride",
+      "date": "2024-02-29",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "18.4 km",
+        "elevation": "238 m",
+        "time": "50m"
+      },
+      "strava_url": "https://www.strava.com/activities/10861745585"
+    },
+    {
+      "id": 10875301689,
+      "type": "ride",
+      "date": "2024-03-02",
+      "title": "To Morrison's and South Devon Primary Election Vote",
+      "body": [],
+      "stats": {
+        "distance": "6.7 km",
+        "elevation": "108 m",
+        "time": "27m"
+      },
+      "strava_url": "https://www.strava.com/activities/10875301689"
+    },
+    {
+      "id": 10880915600,
+      "type": "ride",
+      "date": "2024-03-03",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "38.7 km",
+        "elevation": "787 m",
+        "time": "1h 60m"
+      },
+      "strava_url": "https://www.strava.com/activities/10880915600"
+    },
+    {
+      "id": 10887213229,
+      "type": "ride",
+      "date": "2024-03-04",
+      "title": "South Brent Commute",
+      "body": [],
+      "stats": {
+        "distance": "11.4 km",
+        "elevation": "223 m",
+        "time": "58m"
+      },
+      "strava_url": "https://www.strava.com/activities/10887213229"
+    },
+    {
+      "id": 10888594942,
+      "type": "ride",
+      "date": "2024-03-04",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "7.8 km",
+        "elevation": "81 m",
+        "time": "19m"
+      },
+      "strava_url": "https://www.strava.com/activities/10888594942"
+    },
+    {
+      "id": 10894107536,
+      "type": "ride",
+      "date": "2024-03-05",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "10.1 km",
+        "elevation": "213 m",
+        "time": "32m"
+      },
+      "strava_url": "https://www.strava.com/activities/10894107536"
+    },
+    {
+      "id": 10896055792,
+      "type": "ride",
+      "date": "2024-03-05",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "10.5 km",
+        "elevation": "117 m",
+        "time": "24m"
+      },
+      "strava_url": "https://www.strava.com/activities/10896055792"
+    },
+    {
+      "id": 10901340436,
+      "type": "ride",
+      "date": "2024-03-06",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "10.4 km",
+        "elevation": "207 m",
+        "time": "29m"
+      },
+      "strava_url": "https://www.strava.com/activities/10901340436"
+    },
+    {
+      "id": 10903532804,
+      "type": "ride",
+      "date": "2024-03-06",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "14.6 km",
+        "elevation": "276 m",
+        "time": "47m"
+      },
+      "strava_url": "https://www.strava.com/activities/10903532804"
+    },
+    {
+      "id": 10908358120,
+      "type": "ride",
+      "date": "2024-03-07",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "10.6 km",
+        "elevation": "209 m",
+        "time": "34m"
+      },
+      "strava_url": "https://www.strava.com/activities/10908358120"
+    },
+    {
+      "id": 10910396009,
+      "type": "ride",
+      "date": "2024-03-07",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.8 km",
+        "elevation": "87 m",
+        "time": "29m"
+      },
+      "strava_url": "https://www.strava.com/activities/10910396009"
+    },
+    {
+      "id": 11027815889,
+      "type": "ride",
+      "date": "2024-03-24",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.9 km",
+        "elevation": "71 m",
+        "time": "38m"
+      },
+      "strava_url": "https://www.strava.com/activities/11027815889"
+    },
+    {
+      "id": 11042152026,
+      "type": "ride",
+      "date": "2024-03-26",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "7.2 km",
+        "elevation": "100 m",
+        "time": "22m"
+      },
+      "strava_url": "https://www.strava.com/activities/11042152026"
+    },
+    {
+      "id": 11320538163,
+      "type": "ride",
+      "date": "2024-05-03",
+      "title": "Activity #1714722383",
+      "body": [],
+      "stats": {
+        "distance": "2.1 km",
+        "elevation": "7 m",
+        "time": "4m"
+      },
+      "strava_url": "https://www.strava.com/activities/11320538163"
+    },
+    {
+      "id": 11347718731,
+      "type": "ride",
+      "date": "2024-05-05",
+      "title": "Scope for this week's commute",
+      "body": [],
+      "stats": {
+        "distance": "42.6 km",
+        "elevation": "985 m",
+        "time": "1h 40m"
+      },
+      "strava_url": "https://www.strava.com/activities/11347718731"
+    },
+    {
+      "id": 11353316730,
+      "type": "ride",
+      "date": "2024-05-07",
+      "title": "Shortest commute to Aveton Gifford and back",
+      "body": [],
+      "stats": {
+        "distance": "41.7 km",
+        "elevation": "847 m",
+        "time": "1h 51m"
+      },
+      "strava_url": "https://www.strava.com/activities/11353316730"
+    },
+    {
+      "id": 11358853604,
+      "type": "ride",
+      "date": "2024-05-08",
+      "title": "Commute to work",
+      "body": [],
+      "stats": {
+        "distance": "20.0 km",
+        "elevation": "414 m",
+        "time": "58m"
+      },
+      "strava_url": "https://www.strava.com/activities/11358853604"
+    },
+    {
+      "id": 11361774177,
+      "type": "ride",
+      "date": "2024-05-08",
+      "title": "Commute Home and explore",
+      "body": [],
+      "stats": {
+        "distance": "23.3 km",
+        "elevation": "530 m",
+        "time": "1h 8m"
+      },
+      "strava_url": "https://www.strava.com/activities/11361774177"
+    },
+    {
+      "id": 11366789691,
+      "type": "ride",
+      "date": "2024-05-09",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.0 km",
+        "elevation": "430 m",
+        "time": "55m"
+      },
+      "strava_url": "https://www.strava.com/activities/11366789691"
+    },
+    {
+      "id": 11370024620,
+      "type": "ride",
+      "date": "2024-05-09",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.3 km",
+        "elevation": "378 m",
+        "time": "53m"
+      },
+      "strava_url": "https://www.strava.com/activities/11370024620"
+    },
+    {
+      "id": 11375076443,
+      "type": "ride",
+      "date": "2024-05-10",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.0 km",
+        "elevation": "427 m",
+        "time": "55m"
+      },
+      "strava_url": "https://www.strava.com/activities/11375076443"
+    },
+    {
+      "id": 11376935387,
+      "type": "ride",
+      "date": "2024-05-10",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "22.4 km",
+        "elevation": "484 m",
+        "time": "1h 11m"
+      },
+      "strava_url": "https://www.strava.com/activities/11376935387"
+    },
+    {
+      "id": 11393295149,
+      "type": "ride",
+      "date": "2024-05-12",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.0 km",
+        "elevation": "7 m",
+        "time": "10m"
+      },
+      "strava_url": "https://www.strava.com/activities/11393295149"
+    },
+    {
+      "id": 11409158660,
+      "type": "ride",
+      "date": "2024-05-14",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "7.8 km",
+        "elevation": "158 m",
+        "time": "26m"
+      },
+      "strava_url": "https://www.strava.com/activities/11409158660"
+    },
+    {
+      "id": 11416591572,
+      "type": "ride",
+      "date": "2024-05-15",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "12.0 km",
+        "elevation": "244 m",
+        "time": "59m"
+      },
+      "strava_url": "https://www.strava.com/activities/11416591572"
+    },
+    {
+      "id": 11422286834,
+      "type": "ride",
+      "date": "2024-05-16",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.6 km",
+        "elevation": "132 m",
+        "time": "16m"
+      },
+      "strava_url": "https://www.strava.com/activities/11422286834"
+    },
+    {
+      "id": 11430040349,
+      "type": "ride",
+      "date": "2024-05-17",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "11.5 km",
+        "elevation": "245 m",
+        "time": "48m"
+      },
+      "strava_url": "https://www.strava.com/activities/11430040349"
+    },
+    {
+      "id": 11431142499,
+      "type": "ride",
+      "date": "2024-05-17",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.1 km",
+        "elevation": "186 m",
+        "time": "29m"
+      },
+      "strava_url": "https://www.strava.com/activities/11431142499"
+    },
+    {
+      "id": 11461736857,
+      "type": "ride",
+      "date": "2024-05-21",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.2 km",
+        "elevation": "119 m",
+        "time": "45m"
+      },
+      "strava_url": "https://www.strava.com/activities/11461736857"
+    },
+    {
+      "id": 11500940254,
+      "type": "ride",
+      "date": "2024-05-26",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "44.3 km",
+        "elevation": "999 m",
+        "time": "2h 16m"
+      },
+      "strava_url": "https://www.strava.com/activities/11500940254"
+    },
+    {
+      "id": 11501391813,
+      "type": "ride",
+      "date": "2024-05-26",
+      "title": "Activity #1716725117",
+      "body": [],
+      "stats": {
+        "distance": "44.2 km",
+        "elevation": "963 m",
+        "time": "2h 15m"
+      },
+      "strava_url": "https://www.strava.com/activities/11501391813"
+    },
+    {
+      "id": 11509157042,
+      "type": "ride",
+      "date": "2024-05-27",
+      "title": "Activity #1716818074",
+      "body": [],
+      "stats": {
+        "distance": "20.7 km",
+        "elevation": "31 m",
+        "time": "27m"
+      },
+      "strava_url": "https://www.strava.com/activities/11509157042"
+    },
+    {
+      "id": 11509217925,
+      "type": "ride",
+      "date": "2024-05-27",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.9 km",
+        "elevation": "27 m",
+        "time": "21m"
+      },
+      "strava_url": "https://www.strava.com/activities/11509217925"
+    },
+    {
+      "id": 11515764724,
+      "type": "ride",
+      "date": "2024-05-28",
+      "title": "Commute for Adult Session",
+      "body": [],
+      "stats": {
+        "distance": "49.1 km",
+        "elevation": "882 m",
+        "time": "1h 53m"
+      },
+      "strava_url": "https://www.strava.com/activities/11515764724"
+    },
+    {
+      "id": 11533387822,
+      "type": "ride",
+      "date": "2024-05-30",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "41.5 km",
+        "elevation": "936 m",
+        "time": "2h 15m"
+      },
+      "strava_url": "https://www.strava.com/activities/11533387822"
+    },
+    {
+      "id": 11538304264,
+      "type": "ride",
+      "date": "2024-05-31",
+      "title": "Activity #1717143538",
+      "body": [],
+      "stats": {
+        "distance": "10.7 km",
+        "elevation": "186 m",
+        "time": "31m"
+      },
+      "strava_url": "https://www.strava.com/activities/11538304264"
+    },
+    {
+      "id": 11545843653,
+      "type": "ride",
+      "date": "2024-06-01",
+      "title": "Activity #1717235331",
+      "body": [],
+      "stats": {
+        "distance": "32.8 km",
+        "elevation": "689 m",
+        "time": "1h 22m"
+      },
+      "strava_url": "https://www.strava.com/activities/11545843653"
+    },
+    {
+      "id": 11559289690,
+      "type": "ride",
+      "date": "2024-06-02",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "40.8 km",
+        "elevation": "993 m",
+        "time": "2h 7m"
+      },
+      "strava_url": "https://www.strava.com/activities/11559289690"
+    },
+    {
+      "id": 11554068728,
+      "type": "ride",
+      "date": "2024-06-02",
+      "title": "Activity #1717323227",
+      "body": [],
+      "stats": {
+        "distance": "41.7 km",
+        "elevation": "942 m",
+        "time": "1h 38m"
+      },
+      "strava_url": "https://www.strava.com/activities/11554068728"
+    },
+    {
+      "id": 11563838219,
+      "type": "ride",
+      "date": "2024-06-03",
+      "title": "Activity #1717428299",
+      "body": [],
+      "stats": {
+        "distance": "29.4 km",
+        "elevation": "534 m",
+        "time": "1h 11m"
+      },
+      "strava_url": "https://www.strava.com/activities/11563838219"
+    },
+    {
+      "id": 11609516706,
+      "type": "ride",
+      "date": "2024-06-09",
+      "title": "Activity #1717924836",
+      "body": [],
+      "stats": {
+        "distance": "22.5 km",
+        "elevation": "496 m",
+        "time": "53m"
+      },
+      "strava_url": "https://www.strava.com/activities/11609516706"
+    },
+    {
+      "id": 11665292022,
+      "type": "ride",
+      "date": "2024-06-16",
+      "title": "Activity #1718539881",
+      "body": [],
+      "stats": {
+        "distance": "39.1 km",
+        "elevation": "789 m",
+        "time": "1h 33m"
+      },
+      "strava_url": "https://www.strava.com/activities/11665292022"
+    },
+    {
+      "id": 11703054543,
+      "type": "ride",
+      "date": "2024-06-21",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "25.0 km",
+        "elevation": "463 m",
+        "time": "1h 12m"
+      },
+      "strava_url": "https://www.strava.com/activities/11703054543"
+    },
+    {
+      "id": 11704040329,
+      "type": "ride",
+      "date": "2024-06-21",
+      "title": "Activity #1718970734",
+      "body": [],
+      "stats": {
+        "distance": "50.4 km",
+        "elevation": "825 m",
+        "time": "2h 6m"
+      },
+      "strava_url": "https://www.strava.com/activities/11704040329"
+    },
+    {
+      "id": 11742385316,
+      "type": "ride",
+      "date": "2024-06-26",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.5 km",
+        "elevation": "294 m",
+        "time": "1h 5m"
+      },
+      "strava_url": "https://www.strava.com/activities/11742385316"
+    },
+    {
+      "id": 11742149051,
+      "type": "ride",
+      "date": "2024-06-26",
+      "title": "Activity #1719388937",
+      "body": [],
+      "stats": {
+        "distance": "19.6 km",
+        "elevation": "265 m",
+        "time": "50m"
+      },
+      "strava_url": "https://www.strava.com/activities/11742149051"
+    },
+    {
+      "id": 11751998739,
+      "type": "ride",
+      "date": "2024-06-27",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "48.3 km",
+        "elevation": "981 m",
+        "time": "3h 1m"
+      },
+      "strava_url": "https://www.strava.com/activities/11751998739"
+    },
+    {
+      "id": 11750187285,
+      "type": "ride",
+      "date": "2024-06-27",
+      "title": "Activity #1719476245",
+      "body": [],
+      "stats": {
+        "distance": "19.6 km",
+        "elevation": "272 m",
+        "time": "44m"
+      },
+      "strava_url": "https://www.strava.com/activities/11750187285"
+    },
+    {
+      "id": 11751974278,
+      "type": "ride",
+      "date": "2024-06-27",
+      "title": "Activity #1719493961",
+      "body": [],
+      "stats": {
+        "distance": "24.2 km",
+        "elevation": "594 m",
+        "time": "53m"
+      },
+      "strava_url": "https://www.strava.com/activities/11751974278"
+    },
+    {
+      "id": 11760744802,
+      "type": "ride",
+      "date": "2024-06-28",
+      "title": "Activity #1719591895",
+      "body": [],
+      "stats": {
+        "distance": "42.8 km",
+        "elevation": "523 m",
+        "time": "1h 50m"
+      },
+      "strava_url": "https://www.strava.com/activities/11760744802"
+    },
+    {
+      "id": 11885719503,
+      "type": "ride",
+      "date": "2024-07-14",
+      "title": "Activity #1720960021",
+      "body": [],
+      "stats": {
+        "distance": "31.3 km",
+        "elevation": "617 m",
+        "time": "1h 12m"
+      },
+      "strava_url": "https://www.strava.com/activities/11885719503"
+    },
+    {
+      "id": 12036846489,
+      "type": "ride",
+      "date": "2024-08-01",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.9 km",
+        "elevation": "30 m",
+        "time": "11m"
+      },
+      "strava_url": "https://www.strava.com/activities/12036846489"
+    },
+    {
+      "id": 12037255623,
+      "type": "ride",
+      "date": "2024-08-01",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.7 km",
+        "elevation": "58 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/12037255623"
+    },
+    {
+      "id": 12041815481,
+      "type": "ride",
+      "date": "2024-08-02",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.7 km",
+        "elevation": "117 m",
+        "time": "35m"
+      },
+      "strava_url": "https://www.strava.com/activities/12041815481"
+    },
+    {
+      "id": 12078103765,
+      "type": "ride",
+      "date": "2024-08-06",
+      "title": "Activity #1722957658",
+      "body": [],
+      "stats": {
+        "distance": "52.9 km",
+        "elevation": "1156 m",
+        "time": "2h 58m"
+      },
+      "strava_url": "https://www.strava.com/activities/12078103765"
+    },
+    {
+      "id": 12087195657,
+      "type": "ride",
+      "date": "2024-08-07",
+      "title": "Activity #1723044413",
+      "body": [],
+      "stats": {
+        "distance": "54.3 km",
+        "elevation": "1109 m",
+        "time": "2h 54m"
+      },
+      "strava_url": "https://www.strava.com/activities/12087195657"
+    },
+    {
+      "id": 12137031532,
+      "type": "ride",
+      "date": "2024-08-13",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "21.8 km",
+        "elevation": "394 m",
+        "time": "1h 5m"
+      },
+      "strava_url": "https://www.strava.com/activities/12137031532"
+    },
+    {
+      "id": 12138294460,
+      "type": "ride",
+      "date": "2024-08-13",
+      "title": "Some kinda commute",
+      "body": [],
+      "stats": {
+        "distance": "52.7 km",
+        "elevation": "1046 m",
+        "time": "2h 1m"
+      },
+      "strava_url": "https://www.strava.com/activities/12138294460"
+    },
+    {
+      "id": 12196367710,
+      "type": "ride",
+      "date": "2024-08-20",
+      "title": "Activity #1724164657",
+      "body": [],
+      "stats": {
+        "distance": "34.4 km",
+        "elevation": "516 m",
+        "time": "1h 2m"
+      },
+      "strava_url": "https://www.strava.com/activities/12196367710"
+    },
+    {
+      "id": 12324813028,
+      "type": "ride",
+      "date": "2024-09-04",
+      "title": "Ride with Tilly",
+      "body": [],
+      "stats": {
+        "distance": "19.3 km",
+        "elevation": "88 m",
+        "time": "1h 25m"
+      },
+      "strava_url": "https://www.strava.com/activities/12324813028"
+    },
+    {
+      "id": 12676600721,
+      "type": "ride",
+      "date": "2024-10-17",
+      "title": "Level 2 Training Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.2 km",
+        "elevation": "73 m",
+        "time": "31m"
+      },
+      "strava_url": "https://www.strava.com/activities/12676600721"
+    },
+    {
+      "id": 12881464613,
+      "type": "ride",
+      "date": "2024-11-12",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.0 km",
+        "elevation": "66 m",
+        "time": "10m"
+      },
+      "strava_url": "https://www.strava.com/activities/12881464613"
+    },
+    {
+      "id": 12891666377,
+      "type": "ride",
+      "date": "2024-11-13",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "31.6 km",
+        "elevation": "562 m",
+        "time": "57m"
+      },
+      "strava_url": "https://www.strava.com/activities/12891666377"
+    },
+    {
+      "id": 12906486567,
+      "type": "ride",
+      "date": "2024-11-14",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.2 km",
+        "elevation": "141 m",
+        "time": "26m"
+      },
+      "strava_url": "https://www.strava.com/activities/12906486567"
+    },
+    {
+      "id": 12906486553,
+      "type": "ride",
+      "date": "2024-11-14",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.5 km",
+        "elevation": "103 m",
+        "time": "23m"
+      },
+      "strava_url": "https://www.strava.com/activities/12906486553"
+    },
+    {
+      "id": 12987676103,
+      "type": "ride",
+      "date": "2024-11-26",
+      "title": "Activity #1732633033",
+      "body": [],
+      "stats": {
+        "distance": "16.0 km",
+        "elevation": "215 m",
+        "time": "34m"
+      },
+      "strava_url": "https://www.strava.com/activities/12987676103"
+    },
+    {
+      "id": 12988447728,
+      "type": "ride",
+      "date": "2024-11-26",
+      "title": "Activity #1732640137",
+      "body": [],
+      "stats": {
+        "distance": "16.0 km",
+        "elevation": "243 m",
+        "time": "37m"
+      },
+      "strava_url": "https://www.strava.com/activities/12988447728"
+    },
+    {
+      "id": 13182360198,
+      "type": "ride",
+      "date": "2024-12-24",
+      "title": "Activity #1735054591",
+      "body": [],
+      "stats": {
+        "distance": "54.6 km",
+        "elevation": "1183 m",
+        "time": "2h 13m"
+      },
+      "strava_url": "https://www.strava.com/activities/13182360198"
+    },
+    {
+      "id": 13184687985,
+      "type": "ride",
+      "date": "2024-12-24",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "56.5 km",
+        "elevation": "1252 m",
+        "time": "3h 26m"
+      },
+      "strava_url": "https://www.strava.com/activities/13184687985"
+    },
+    {
+      "id": 13412206929,
+      "type": "ride",
+      "date": "2025-01-19",
+      "title": "Activity #1737453567",
+      "body": [],
+      "stats": {
+        "distance": "14.2 km",
+        "elevation": "454 m",
+        "time": "25m"
+      },
+      "strava_url": "https://www.strava.com/activities/13412206929"
+    },
+    {
+      "id": 13721555395,
+      "type": "ride",
+      "date": "2025-02-25",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.7 km",
+        "elevation": "266 m",
+        "time": "42m"
+      },
+      "strava_url": "https://www.strava.com/activities/13721555395"
+    },
+    {
+      "id": 13723105443,
+      "type": "ride",
+      "date": "2025-02-25",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "27.9 km",
+        "elevation": "586 m",
+        "time": "1h 21m"
+      },
+      "strava_url": "https://www.strava.com/activities/13723105443"
+    },
+    {
+      "id": 13863623108,
+      "type": "ride",
+      "date": "2025-03-12",
+      "title": "Post work explore",
+      "body": [],
+      "stats": {
+        "distance": "69.0 km",
+        "elevation": "1250 m",
+        "time": "4h 9m"
+      },
+      "strava_url": "https://www.strava.com/activities/13863623108"
+    },
+    {
+      "id": 14128413754,
+      "type": "ride",
+      "date": "2025-04-09",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "73.2 km",
+        "elevation": "1693 m",
+        "time": "4h 6m"
+      },
+      "strava_url": "https://www.strava.com/activities/14128413754"
+    },
+    {
+      "id": 14220809357,
+      "type": "ride",
+      "date": "2025-04-19",
+      "title": "Activity #1745057296",
+      "body": [],
+      "stats": {
+        "distance": "16.7 km",
+        "elevation": "221 m",
+        "time": "37m"
+      },
+      "strava_url": "https://www.strava.com/activities/14220809357"
+    },
+    {
+      "id": 14229820290,
+      "type": "ride",
+      "date": "2025-04-20",
+      "title": "Pre breakfast tootle to Widecombe in the Moor and Bonehill Rocks",
+      "body": [],
+      "stats": {
+        "distance": "46.5 km",
+        "elevation": "1103 m",
+        "time": "1h 50m"
+      },
+      "strava_url": "https://www.strava.com/activities/14229820290"
+    },
+    {
+      "id": 14306643254,
+      "type": "ride",
+      "date": "2025-04-27",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "68.8 km",
+        "elevation": "1634 m",
+        "time": "3h 43m"
+      },
+      "strava_url": "https://www.strava.com/activities/14306643254"
+    },
+    {
+      "id": 14332968001,
+      "type": "ride",
+      "date": "2025-04-30",
+      "title": "Post teaching balance",
+      "body": [],
+      "stats": {
+        "distance": "26.3 km",
+        "elevation": "498 m",
+        "time": "55m"
+      },
+      "strava_url": "https://www.strava.com/activities/14332968001"
+    },
+    {
+      "id": 14366061905,
+      "type": "ride",
+      "date": "2025-05-03",
+      "title": "EBike to Newton Ferrers",
+      "body": [],
+      "stats": {
+        "distance": "63.7 km",
+        "elevation": "1043 m",
+        "time": "2h 11m"
+      },
+      "strava_url": "https://www.strava.com/activities/14366061905"
+    },
+    {
+      "id": 14404954856,
+      "type": "ride",
+      "date": "2025-05-07",
+      "title": "Activity #1746623078",
+      "body": [],
+      "stats": {
+        "distance": "59.6 km",
+        "elevation": "1157 m",
+        "time": "2h 10m"
+      },
+      "strava_url": "https://www.strava.com/activities/14404954856"
+    },
+    {
+      "id": 14495153878,
+      "type": "ride",
+      "date": "2025-05-08",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "51.2 km",
+        "elevation": "997 m",
+        "time": "2h 17m"
+      },
+      "strava_url": "https://www.strava.com/activities/14495153878"
+    },
+    {
+      "id": 14495153848,
+      "type": "ride",
+      "date": "2025-05-10",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.7 km",
+        "elevation": "356 m",
+        "time": "2h 36m"
+      },
+      "strava_url": "https://www.strava.com/activities/14495153848"
+    },
+    {
+      "id": 14447645594,
+      "type": "ride",
+      "date": "2025-05-11",
+      "title": "Activity #1746975250",
+      "body": [],
+      "stats": {
+        "distance": "9.4 km",
+        "elevation": "146 m",
+        "time": "24m"
+      },
+      "strava_url": "https://www.strava.com/activities/14447645594"
+    },
+    {
+      "id": 14495153852,
+      "type": "ride",
+      "date": "2025-05-12",
+      "title": "Commute to School and explore home",
+      "body": [],
+      "stats": {
+        "distance": "26.6 km",
+        "elevation": "644 m",
+        "time": "1h 29m"
+      },
+      "strava_url": "https://www.strava.com/activities/14495153852"
+    },
+    {
+      "id": 14495153905,
+      "type": "ride",
+      "date": "2025-05-13",
+      "title": "Commute out and Explore West back",
+      "body": [],
+      "stats": {
+        "distance": "39.0 km",
+        "elevation": "679 m",
+        "time": "2h 53m"
+      },
+      "strava_url": "https://www.strava.com/activities/14495153905"
+    },
+    {
+      "id": 14495112789,
+      "type": "ride",
+      "date": "2025-05-14",
+      "title": "Commute and Ferry home",
+      "body": [],
+      "stats": {
+        "distance": "34.4 km",
+        "elevation": "767 m",
+        "time": "1h 47m"
+      },
+      "strava_url": "https://www.strava.com/activities/14495112789"
+    },
+    {
+      "id": 14495143115,
+      "type": "ride",
+      "date": "2025-05-15",
+      "title": "Morning Ride plus explore Halwell Camp",
+      "body": [],
+      "stats": {
+        "distance": "39.6 km",
+        "elevation": "907 m",
+        "time": "1h 58m"
+      },
+      "strava_url": "https://www.strava.com/activities/14495143115"
+    },
+    {
+      "id": 14485883546,
+      "type": "ride",
+      "date": "2025-05-15",
+      "title": "Activity #1747295864",
+      "body": [],
+      "stats": {
+        "distance": "5.6 km",
+        "elevation": "127 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/14485883546"
+    },
+    {
+      "id": 14499732966,
+      "type": "ride",
+      "date": "2025-05-16",
+      "title": "Rydon circuit",
+      "body": [],
+      "stats": {
+        "distance": "49.4 km",
+        "elevation": "859 m",
+        "time": "2h 24m"
+      },
+      "strava_url": "https://www.strava.com/activities/14499732966"
+    },
+    {
+      "id": 14656541511,
+      "type": "ride",
+      "date": "2025-05-31",
+      "title": "Longest Ride Yet",
+      "body": [],
+      "stats": {
+        "distance": "87.5 km",
+        "elevation": "1743 m",
+        "time": "4h 38m"
+      },
+      "strava_url": "https://www.strava.com/activities/14656541511"
+    },
+    {
+      "id": 14800365559,
+      "type": "ride",
+      "date": "2025-06-14",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "29.2 km",
+        "elevation": "487 m",
+        "time": "1h 56m"
+      },
+      "strava_url": "https://www.strava.com/activities/14800365559"
+    },
+    {
+      "id": 14800365369,
+      "type": "ride",
+      "date": "2025-06-14",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "23.6 km",
+        "elevation": "614 m",
+        "time": "1h 23m"
+      },
+      "strava_url": "https://www.strava.com/activities/14800365369"
+    },
+    {
+      "id": 14824823832,
+      "type": "ride",
+      "date": "2025-06-17",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.0 km",
+        "elevation": "0 m",
+        "time": "0m"
+      },
+      "strava_url": "https://www.strava.com/activities/14824823832"
+    },
+    {
+      "id": 14824823880,
+      "type": "ride",
+      "date": "2025-06-17",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.6 km",
+        "elevation": "63 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/14824823880"
+    },
+    {
+      "id": 14826738498,
+      "type": "ride",
+      "date": "2025-06-17",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.7 km",
+        "elevation": "69 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/14826738498"
+    },
+    {
+      "id": 14828988724,
+      "type": "ride",
+      "date": "2025-06-17",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "31.7 km",
+        "elevation": "815 m",
+        "time": "1h 44m"
+      },
+      "strava_url": "https://www.strava.com/activities/14828988724"
+    },
+    {
+      "id": 14854355989,
+      "type": "ride",
+      "date": "2025-06-19",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.6 km",
+        "elevation": "91 m",
+        "time": "34m"
+      },
+      "strava_url": "https://www.strava.com/activities/14854355989"
+    },
+    {
+      "id": 14891383852,
+      "type": "ride",
+      "date": "2025-06-23",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.9 km",
+        "elevation": "86 m",
+        "time": "38m"
+      },
+      "strava_url": "https://www.strava.com/activities/14891383852"
+    },
+    {
+      "id": 14909511817,
+      "type": "ride",
+      "date": "2025-06-25",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.0 km",
+        "elevation": "27 m",
+        "time": "14m"
+      },
+      "strava_url": "https://www.strava.com/activities/14909511817"
+    },
+    {
+      "id": 14910159146,
+      "type": "ride",
+      "date": "2025-06-25",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.0 km",
+        "elevation": "62 m",
+        "time": "26m"
+      },
+      "strava_url": "https://www.strava.com/activities/14910159146"
+    },
+    {
+      "id": 14911972957,
+      "type": "ride",
+      "date": "2025-06-25",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.8 km",
+        "elevation": "79 m",
+        "time": "51m"
+      },
+      "strava_url": "https://www.strava.com/activities/14911972957"
+    },
+    {
+      "id": 14959941235,
+      "type": "ride",
+      "date": "2025-06-30",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.0 km",
+        "elevation": "15 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/14959941235"
+    },
+    {
+      "id": 14961307786,
+      "type": "ride",
+      "date": "2025-06-30",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.6 km",
+        "elevation": "37 m",
+        "time": "17m"
+      },
+      "strava_url": "https://www.strava.com/activities/14961307786"
+    },
+    {
+      "id": 14962756080,
+      "type": "ride",
+      "date": "2025-06-30",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.0 km",
+        "elevation": "20 m",
+        "time": "19m"
+      },
+      "strava_url": "https://www.strava.com/activities/14962756080"
+    },
+    {
+      "id": 14970482068,
+      "type": "ride",
+      "date": "2025-07-01",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.9 km",
+        "elevation": "15 m",
+        "time": "4m"
+      },
+      "strava_url": "https://www.strava.com/activities/14970482068"
+    },
+    {
+      "id": 14971734688,
+      "type": "ride",
+      "date": "2025-07-01",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.1 km",
+        "elevation": "19 m",
+        "time": "15m"
+      },
+      "strava_url": "https://www.strava.com/activities/14971734688"
+    },
+    {
+      "id": 14973430562,
+      "type": "ride",
+      "date": "2025-07-01",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.8 km",
+        "elevation": "64 m",
+        "time": "1h 8m"
+      },
+      "strava_url": "https://www.strava.com/activities/14973430562"
+    },
+    {
+      "id": 14981263192,
+      "type": "ride",
+      "date": "2025-07-02",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.2 km",
+        "elevation": "16 m",
+        "time": "5m"
+      },
+      "strava_url": "https://www.strava.com/activities/14981263192"
+    },
+    {
+      "id": 14982546233,
+      "type": "ride",
+      "date": "2025-07-02",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.0 km",
+        "elevation": "0 m",
+        "time": "0m"
+      },
+      "strava_url": "https://www.strava.com/activities/14982546233"
+    },
+    {
+      "id": 14994598289,
+      "type": "ride",
+      "date": "2025-07-03",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "43.3 km",
+        "elevation": "887 m",
+        "time": "2h 29m"
+      },
+      "strava_url": "https://www.strava.com/activities/14994598289"
+    },
+    {
+      "id": 15002243989,
+      "type": "ride",
+      "date": "2025-07-04",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.5 km",
+        "elevation": "61 m",
+        "time": "11m"
+      },
+      "strava_url": "https://www.strava.com/activities/15002243989"
+    },
+    {
+      "id": 15003839471,
+      "type": "ride",
+      "date": "2025-07-04",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.0 km",
+        "elevation": "41 m",
+        "time": "14m"
+      },
+      "strava_url": "https://www.strava.com/activities/15003839471"
+    },
+    {
+      "id": 15017432183,
+      "type": "ride",
+      "date": "2025-07-05",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "53.4 km",
+        "elevation": "1007 m",
+        "time": "2h 29m"
+      },
+      "strava_url": "https://www.strava.com/activities/15017432183"
+    },
+    {
+      "id": 15055664614,
+      "type": "ride",
+      "date": "2025-07-09",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.7 km",
+        "elevation": "17 m",
+        "time": "17m"
+      },
+      "strava_url": "https://www.strava.com/activities/15055664614"
+    },
+    {
+      "id": 15068745218,
+      "type": "ride",
+      "date": "2025-07-10",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "51.2 km",
+        "elevation": "985 m",
+        "time": "2h 31m"
+      },
+      "strava_url": "https://www.strava.com/activities/15068745218"
+    },
+    {
+      "id": 15079995207,
+      "type": "ride",
+      "date": "2025-07-11",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.8 km",
+        "elevation": "86 m",
+        "time": "48m"
+      },
+      "strava_url": "https://www.strava.com/activities/15079995207"
+    },
+    {
+      "id": 15079995193,
+      "type": "ride",
+      "date": "2025-07-11",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "19.9 km",
+        "elevation": "251 m",
+        "time": "57m"
+      },
+      "strava_url": "https://www.strava.com/activities/15079995193"
+    },
+    {
+      "id": 15167515904,
+      "type": "ride",
+      "date": "2025-07-19",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "15.1 km",
+        "elevation": "148 m",
+        "time": "41m"
+      },
+      "strava_url": "https://www.strava.com/activities/15167515904"
+    },
+    {
+      "id": 15175926737,
+      "type": "ride",
+      "date": "2025-07-20",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "30.3 km",
+        "elevation": "353 m",
+        "time": "1h 18m"
+      },
+      "strava_url": "https://www.strava.com/activities/15175926737"
+    },
+    {
+      "id": 15178676499,
+      "type": "ride",
+      "date": "2025-07-20",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "10.5 km",
+        "elevation": "51 m",
+        "time": "43m"
+      },
+      "strava_url": "https://www.strava.com/activities/15178676499"
+    },
+    {
+      "id": 15180747400,
+      "type": "ride",
+      "date": "2025-07-20",
+      "title": "Evening E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "22.4 km",
+        "elevation": "231 m",
+        "time": "53m"
+      },
+      "strava_url": "https://www.strava.com/activities/15180747400"
+    },
+    {
+      "id": 15187294475,
+      "type": "ride",
+      "date": "2025-07-21",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "10.9 km",
+        "elevation": "136 m",
+        "time": "34m"
+      },
+      "strava_url": "https://www.strava.com/activities/15187294475"
+    },
+    {
+      "id": 15199091207,
+      "type": "ride",
+      "date": "2025-07-22",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "76.4 km",
+        "elevation": "797 m",
+        "time": "3h 41m"
+      },
+      "strava_url": "https://www.strava.com/activities/15199091207"
+    },
+    {
+      "id": 15221521913,
+      "type": "ride",
+      "date": "2025-07-24",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "89.3 km",
+        "elevation": "1081 m",
+        "time": "4h 4m"
+      },
+      "strava_url": "https://www.strava.com/activities/15221521913"
+    },
+    {
+      "id": 15235014220,
+      "type": "ride",
+      "date": "2025-07-25",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "51.0 km",
+        "elevation": "970 m",
+        "time": "2h 14m"
+      },
+      "strava_url": "https://www.strava.com/activities/15235014220"
+    },
+    {
+      "id": 15235014217,
+      "type": "ride",
+      "date": "2025-07-25",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "59.4 km",
+        "elevation": "1089 m",
+        "time": "2h 57m"
+      },
+      "strava_url": "https://www.strava.com/activities/15235014217"
+    },
+    {
+      "id": 15255268855,
+      "type": "ride",
+      "date": "2025-07-27",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "21.4 km",
+        "elevation": "124 m",
+        "time": "1h 50m"
+      },
+      "strava_url": "https://www.strava.com/activities/15255268855"
+    },
+    {
+      "id": 15255268809,
+      "type": "ride",
+      "date": "2025-07-27",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "15.2 km",
+        "elevation": "116 m",
+        "time": "1h 11m"
+      },
+      "strava_url": "https://www.strava.com/activities/15255268809"
+    },
+    {
+      "id": 15276600987,
+      "type": "ride",
+      "date": "2025-07-29",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "18.8 km",
+        "elevation": "237 m",
+        "time": "2h 3m"
+      },
+      "strava_url": "https://www.strava.com/activities/15276600987"
+    },
+    {
+      "id": 15320431486,
+      "type": "ride",
+      "date": "2025-08-02",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "38.8 km",
+        "elevation": "216 m",
+        "time": "3h 20m"
+      },
+      "strava_url": "https://www.strava.com/activities/15320431486"
+    },
+    {
+      "id": 15375026373,
+      "type": "ride",
+      "date": "2025-08-07",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.1 km",
+        "elevation": "16 m",
+        "time": "17m"
+      },
+      "strava_url": "https://www.strava.com/activities/15375026373"
+    },
+    {
+      "id": 15378602621,
+      "type": "ride",
+      "date": "2025-08-07",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.9 km",
+        "elevation": "47 m",
+        "time": "33m"
+      },
+      "strava_url": "https://www.strava.com/activities/15378602621"
+    },
+    {
+      "id": 15508518920,
+      "type": "ride",
+      "date": "2025-08-19",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "12.3 km",
+        "elevation": "33 m",
+        "time": "41m"
+      },
+      "strava_url": "https://www.strava.com/activities/15508518920"
+    },
+    {
+      "id": 15521128990,
+      "type": "ride",
+      "date": "2025-08-20",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "14.1 km",
+        "elevation": "14 m",
+        "time": "50m"
+      },
+      "strava_url": "https://www.strava.com/activities/15521128990"
+    },
+    {
+      "id": 15532394136,
+      "type": "ride",
+      "date": "2025-08-21",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "13.6 km",
+        "elevation": "29 m",
+        "time": "48m"
+      },
+      "strava_url": "https://www.strava.com/activities/15532394136"
+    },
+    {
+      "id": 15705569768,
+      "type": "ride",
+      "date": "2025-09-05",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "37.4 km",
+        "elevation": "971 m",
+        "time": "2h 3m"
+      },
+      "strava_url": "https://www.strava.com/activities/15705569768"
+    },
+    {
+      "id": 15713769090,
+      "type": "ride",
+      "date": "2025-09-06",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.5 km",
+        "elevation": "41 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/15713769090"
+    },
+    {
+      "id": 15716888553,
+      "type": "ride",
+      "date": "2025-09-06",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.4 km",
+        "elevation": "101 m",
+        "time": "17m"
+      },
+      "strava_url": "https://www.strava.com/activities/15716888553"
+    },
+    {
+      "id": 15748871533,
+      "type": "ride",
+      "date": "2025-09-09",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.0 km",
+        "elevation": "127 m",
+        "time": "30m"
+      },
+      "strava_url": "https://www.strava.com/activities/15748871533"
+    },
+    {
+      "id": 15761066591,
+      "type": "ride",
+      "date": "2025-09-10",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.6 km",
+        "elevation": "41 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/15761066591"
+    },
+    {
+      "id": 15772469876,
+      "type": "ride",
+      "date": "2025-09-11",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.8 km",
+        "elevation": "35 m",
+        "time": "17m"
+      },
+      "strava_url": "https://www.strava.com/activities/15772469876"
+    },
+    {
+      "id": 15787053917,
+      "type": "ride",
+      "date": "2025-09-12",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.1 km",
+        "elevation": "13 m",
+        "time": "6m"
+      },
+      "strava_url": "https://www.strava.com/activities/15787053917"
+    },
+    {
+      "id": 15787475515,
+      "type": "ride",
+      "date": "2025-09-12",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.4 km",
+        "elevation": "48 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/15787475515"
+    },
+    {
+      "id": 15796624367,
+      "type": "ride",
+      "date": "2025-09-13",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.5 km",
+        "elevation": "175 m",
+        "time": "41m"
+      },
+      "strava_url": "https://www.strava.com/activities/15796624367"
+    },
+    {
+      "id": 15921368002,
+      "type": "ride",
+      "date": "2025-09-24",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.9 km",
+        "elevation": "31 m",
+        "time": "30m"
+      },
+      "strava_url": "https://www.strava.com/activities/15921368002"
+    },
+    {
+      "id": 15921368012,
+      "type": "ride",
+      "date": "2025-09-24",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.6 km",
+        "elevation": "13 m",
+        "time": "21m"
+      },
+      "strava_url": "https://www.strava.com/activities/15921368012"
+    },
+    {
+      "id": 15974621655,
+      "type": "ride",
+      "date": "2025-09-29",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "65.8 km",
+        "elevation": "1293 m",
+        "time": "3h 38m"
+      },
+      "strava_url": "https://www.strava.com/activities/15974621655"
+    },
+    {
+      "id": 15979519996,
+      "type": "ride",
+      "date": "2025-09-29",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "64.7 km",
+        "elevation": "1379 m",
+        "time": "3h 33m"
+      },
+      "strava_url": "https://www.strava.com/activities/15979519996"
+    },
+    {
+      "id": 15997426542,
+      "type": "ride",
+      "date": "2025-10-01",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.4 km",
+        "elevation": "153 m",
+        "time": "24m"
+      },
+      "strava_url": "https://www.strava.com/activities/15997426542"
+    },
+    {
+      "id": 15998522131,
+      "type": "ride",
+      "date": "2025-10-01",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.6 km",
+        "elevation": "61 m",
+        "time": "24m"
+      },
+      "strava_url": "https://www.strava.com/activities/15998522131"
+    },
+    {
+      "id": 16008519579,
+      "type": "ride",
+      "date": "2025-10-02",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "32.9 km",
+        "elevation": "848 m",
+        "time": "1h 53m"
+      },
+      "strava_url": "https://www.strava.com/activities/16008519579"
+    },
+    {
+      "id": 16010604312,
+      "type": "ride",
+      "date": "2025-10-02",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.3 km",
+        "elevation": "145 m",
+        "time": "52m"
+      },
+      "strava_url": "https://www.strava.com/activities/16010604312"
+    },
+    {
+      "id": 16015206366,
+      "type": "ride",
+      "date": "2025-10-02",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "29.9 km",
+        "elevation": "617 m",
+        "time": "1h 18m"
+      },
+      "strava_url": "https://www.strava.com/activities/16015206366"
+    },
+    {
+      "id": 16062938727,
+      "type": "ride",
+      "date": "2025-10-07",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.2 km",
+        "elevation": "365 m",
+        "time": "1h 12m"
+      },
+      "strava_url": "https://www.strava.com/activities/16062938727"
+    },
+    {
+      "id": 16073868575,
+      "type": "ride",
+      "date": "2025-10-08",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.1 km",
+        "elevation": "147 m",
+        "time": "23m"
+      },
+      "strava_url": "https://www.strava.com/activities/16073868575"
+    },
+    {
+      "id": 16160516938,
+      "type": "ride",
+      "date": "2025-10-16",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "14.5 km",
+        "elevation": "321 m",
+        "time": "45m"
+      },
+      "strava_url": "https://www.strava.com/activities/16160516938"
+    },
+    {
+      "id": 16178191556,
+      "type": "ride",
+      "date": "2025-10-18",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.5 km",
+        "elevation": "414 m",
+        "time": "59m"
+      },
+      "strava_url": "https://www.strava.com/activities/16178191556"
+    },
+    {
+      "id": 16179700789,
+      "type": "ride",
+      "date": "2025-10-18",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "26.1 km",
+        "elevation": "645 m",
+        "time": "1h 30m"
+      },
+      "strava_url": "https://www.strava.com/activities/16179700789"
+    },
+    {
+      "id": 16286283456,
+      "type": "ride",
+      "date": "2025-10-28",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "55.8 km",
+        "elevation": "1100 m",
+        "time": "4h 10m"
+      },
+      "strava_url": "https://www.strava.com/activities/16286283456"
+    },
+    {
+      "id": 16305988594,
+      "type": "ride",
+      "date": "2025-10-30",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "51.9 km",
+        "elevation": "1190 m",
+        "time": "2h 59m"
+      },
+      "strava_url": "https://www.strava.com/activities/16305988594"
+    },
+    {
+      "id": 16375481791,
+      "type": "ride",
+      "date": "2025-11-06",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.4 km",
+        "elevation": "45 m",
+        "time": "11m"
+      },
+      "strava_url": "https://www.strava.com/activities/16375481791"
+    },
+    {
+      "id": 16425186548,
+      "type": "ride",
+      "date": "2025-11-11",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.3 km",
+        "elevation": "61 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/16425186548"
+    },
+    {
+      "id": 16446410185,
+      "type": "ride",
+      "date": "2025-11-12",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.1 km",
+        "elevation": "34 m",
+        "time": "4m"
+      },
+      "strava_url": "https://www.strava.com/activities/16446410185"
+    },
+    {
+      "id": 16446410496,
+      "type": "ride",
+      "date": "2025-11-13",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.3 km",
+        "elevation": "41 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/16446410496"
+    },
+    {
+      "id": 16446414755,
+      "type": "ride",
+      "date": "2025-11-13",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.0 km",
+        "elevation": "68 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/16446414755"
+    },
+    {
+      "id": 16485852543,
+      "type": "ride",
+      "date": "2025-11-17",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.1 km",
+        "elevation": "110 m",
+        "time": "16m"
+      },
+      "strava_url": "https://www.strava.com/activities/16485852543"
+    },
+    {
+      "id": 16485852567,
+      "type": "ride",
+      "date": "2025-11-17",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "21.1 km",
+        "elevation": "480 m",
+        "time": "1h 16m"
+      },
+      "strava_url": "https://www.strava.com/activities/16485852567"
+    },
+    {
+      "id": 16543778462,
+      "type": "ride",
+      "date": "2025-11-23",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "16.6 km",
+        "elevation": "297 m",
+        "time": "53m"
+      },
+      "strava_url": "https://www.strava.com/activities/16543778462"
+    },
+    {
+      "id": 16599178682,
+      "type": "ride",
+      "date": "2025-11-29",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.5 km",
+        "elevation": "393 m",
+        "time": "1h 2m"
+      },
+      "strava_url": "https://www.strava.com/activities/16599178682"
+    },
+    {
+      "id": 16602550795,
+      "type": "ride",
+      "date": "2025-11-29",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "37.2 km",
+        "elevation": "907 m",
+        "time": "2h 12m"
+      },
+      "strava_url": "https://www.strava.com/activities/16602550795"
+    },
+    {
+      "id": 16629526564,
+      "type": "ride",
+      "date": "2025-12-02",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "14.4 km",
+        "elevation": "158 m",
+        "time": "54m"
+      },
+      "strava_url": "https://www.strava.com/activities/16629526564"
+    },
+    {
+      "id": 16638437199,
+      "type": "ride",
+      "date": "2025-12-03",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.7 km",
+        "elevation": "117 m",
+        "time": "1h 1m"
+      },
+      "strava_url": "https://www.strava.com/activities/16638437199"
+    },
+    {
+      "id": 16639674583,
+      "type": "ride",
+      "date": "2025-12-03",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "19.4 km",
+        "elevation": "282 m",
+        "time": "1h 19m"
+      },
+      "strava_url": "https://www.strava.com/activities/16639674583"
+    },
+    {
+      "id": 16728456821,
+      "type": "ride",
+      "date": "2025-12-12",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "50.7 km",
+        "elevation": "747 m",
+        "time": "2h 42m"
+      },
+      "strava_url": "https://www.strava.com/activities/16728456821"
+    },
+    {
+      "id": 16823157793,
+      "type": "ride",
+      "date": "2025-12-23",
+      "title": "Activity #1766519419",
+      "body": [],
+      "stats": {
+        "distance": "12.4 km",
+        "elevation": "130 m",
+        "time": "37m"
+      },
+      "strava_url": "https://www.strava.com/activities/16823157793"
+    },
+    {
+      "id": 16834808124,
+      "type": "ride",
+      "date": "2025-12-24",
+      "title": "Activity #1766653930",
+      "body": [],
+      "stats": {
+        "distance": "54.9 km",
+        "elevation": "1180 m",
+        "time": "2h 19m"
+      },
+      "strava_url": "https://www.strava.com/activities/16834808124"
+    },
+    {
+      "id": 17046379720,
+      "type": "ride",
+      "date": "2026-01-14",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.6 km",
+        "elevation": "58 m",
+        "time": "31m"
+      },
+      "strava_url": "https://www.strava.com/activities/17046379720"
+    },
+    {
+      "id": 17047582150,
+      "type": "ride",
+      "date": "2026-01-14",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.2 km",
+        "elevation": "96 m",
+        "time": "46m"
+      },
+      "strava_url": "https://www.strava.com/activities/17047582150"
+    },
+    {
+      "id": 17059159153,
+      "type": "ride",
+      "date": "2026-01-15",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.5 km",
+        "elevation": "92 m",
+        "time": "36m"
+      },
+      "strava_url": "https://www.strava.com/activities/17059159153"
+    },
+    {
+      "id": 17083796220,
+      "type": "ride",
+      "date": "2026-01-17",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "44.7 km",
+        "elevation": "994 m",
+        "time": "2h 25m"
+      },
+      "strava_url": "https://www.strava.com/activities/17083796220"
+    },
+    {
+      "id": 17364850121,
+      "type": "ride",
+      "date": "2026-02-11",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.2 km",
+        "elevation": "227 m",
+        "time": "35m"
+      },
+      "strava_url": "https://www.strava.com/activities/17364850121"
+    },
+    {
+      "id": 17396926016,
+      "type": "ride",
+      "date": "2026-02-14",
+      "title": "Activity #1771087260",
+      "body": [],
+      "stats": {
+        "distance": "53.5 km",
+        "elevation": "1003 m",
+        "time": "2h 10m"
+      },
+      "strava_url": "https://www.strava.com/activities/17396926016"
+    },
+    {
+      "id": 17529898045,
+      "type": "ride",
+      "date": "2026-02-26",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "14.3 km",
+        "elevation": "249 m",
+        "time": "1h 46m"
+      },
+      "strava_url": "https://www.strava.com/activities/17529898045"
+    },
+    {
+      "id": 17588807863,
+      "type": "ride",
+      "date": "2026-03-03",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "45.0 km",
+        "elevation": "829 m",
+        "time": "3h 5m"
+      },
+      "strava_url": "https://www.strava.com/activities/17588807863"
+    },
+    {
+      "id": 17674137067,
+      "type": "ride",
+      "date": "2026-03-10",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "10.4 km",
+        "elevation": "241 m",
+        "time": "1h 10m"
+      },
+      "strava_url": "https://www.strava.com/activities/17674137067"
+    },
+    {
+      "id": 17696146439,
+      "type": "ride",
+      "date": "2026-03-12",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.9 km",
+        "elevation": "62 m",
+        "time": "26m"
+      },
+      "strava_url": "https://www.strava.com/activities/17696146439"
+    },
+    {
+      "id": 17775362641,
+      "type": "ride",
+      "date": "2026-03-16",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "48.7 km",
+        "elevation": "1023 m",
+        "time": "2h 45m"
+      },
+      "strava_url": "https://www.strava.com/activities/17775362641"
+    },
+    {
+      "id": 17775362621,
+      "type": "ride",
+      "date": "2026-03-17",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "38.3 km",
+        "elevation": "662 m",
+        "time": "1h 58m"
+      },
+      "strava_url": "https://www.strava.com/activities/17775362621"
+    },
+    {
+      "id": 17775362611,
+      "type": "ride",
+      "date": "2026-03-18",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "38.9 km",
+        "elevation": "691 m",
+        "time": "2h 8m"
+      },
+      "strava_url": "https://www.strava.com/activities/17775362611"
+    },
+    {
+      "id": 17913892597,
+      "type": "ride",
+      "date": "2026-03-23",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.0 km",
+        "elevation": "117 m",
+        "time": "21m"
+      },
+      "strava_url": "https://www.strava.com/activities/17913892597"
+    },
+    {
+      "id": 17913859863,
+      "type": "ride",
+      "date": "2026-03-23",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.2 km",
+        "elevation": "46 m",
+        "time": "18m"
+      },
+      "strava_url": "https://www.strava.com/activities/17913859863"
+    },
+    {
+      "id": 17913826608,
+      "type": "ride",
+      "date": "2026-03-24",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.4 km",
+        "elevation": "125 m",
+        "time": "26m"
+      },
+      "strava_url": "https://www.strava.com/activities/17913826608"
+    },
+    {
+      "id": 17913785986,
+      "type": "ride",
+      "date": "2026-03-24",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.8 km",
+        "elevation": "58 m",
+        "time": "26m"
+      },
+      "strava_url": "https://www.strava.com/activities/17913785986"
+    },
+    {
+      "id": 17850596046,
+      "type": "ride",
+      "date": "2026-03-25",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.0 km",
+        "elevation": "134 m",
+        "time": "20m"
+      },
+      "strava_url": "https://www.strava.com/activities/17850596046"
+    },
+    {
+      "id": 17854297670,
+      "type": "ride",
+      "date": "2026-03-25",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.0 km",
+        "elevation": "68 m",
+        "time": "25m"
+      },
+      "strava_url": "https://www.strava.com/activities/17854297670"
+    },
+    {
+      "id": 17862666664,
+      "type": "ride",
+      "date": "2026-03-26",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.0 km",
+        "elevation": "102 m",
+        "time": "20m"
+      },
+      "strava_url": "https://www.strava.com/activities/17862666664"
+    },
+    {
+      "id": 17866345209,
+      "type": "ride",
+      "date": "2026-03-26",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.2 km",
+        "elevation": "69 m",
+        "time": "26m"
+      },
+      "strava_url": "https://www.strava.com/activities/17866345209"
+    },
+    {
+      "id": 17867069779,
+      "type": "ride",
+      "date": "2026-03-26",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.8 km",
+        "elevation": "22 m",
+        "time": "15m"
+      },
+      "strava_url": "https://www.strava.com/activities/17867069779"
+    },
+    {
+      "id": 17908962893,
+      "type": "ride",
+      "date": "2026-03-30",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.6 km",
+        "elevation": "15 m",
+        "time": "5m"
+      },
+      "strava_url": "https://www.strava.com/activities/17908962893"
+    },
+    {
+      "id": 17909372536,
+      "type": "ride",
+      "date": "2026-03-30",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.8 km",
+        "elevation": "38 m",
+        "time": "20m"
+      },
+      "strava_url": "https://www.strava.com/activities/17909372536"
+    },
+    {
+      "id": 17912556446,
+      "type": "ride",
+      "date": "2026-03-30",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.6 km",
+        "elevation": "57 m",
+        "time": "19m"
+      },
+      "strava_url": "https://www.strava.com/activities/17912556446"
+    },
+    {
+      "id": 17926902467,
+      "type": "ride",
+      "date": "2026-03-31",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.9 km",
+        "elevation": "42 m",
+        "time": "18m"
+      },
+      "strava_url": "https://www.strava.com/activities/17926902467"
+    },
+    {
+      "id": 17925275784,
+      "type": "ride",
+      "date": "2026-03-31",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.5 km",
+        "elevation": "57 m",
+        "time": "16m"
+      },
+      "strava_url": "https://www.strava.com/activities/17925275784"
+    },
+    {
+      "id": 17925800223,
+      "type": "ride",
+      "date": "2026-03-31",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.8 km",
+        "elevation": "35 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/17925800223"
+    },
+    {
+      "id": 17934440753,
+      "type": "ride",
+      "date": "2026-04-01",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.7 km",
+        "elevation": "40 m",
+        "time": "15m"
+      },
+      "strava_url": "https://www.strava.com/activities/17934440753"
+    },
+    {
+      "id": 17938099840,
+      "type": "ride",
+      "date": "2026-04-01",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.5 km",
+        "elevation": "56 m",
+        "time": "18m"
+      },
+      "strava_url": "https://www.strava.com/activities/17938099840"
+    },
+    {
+      "id": 17946434305,
+      "type": "ride",
+      "date": "2026-04-02",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "7.0 km",
+        "elevation": "101 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/17946434305"
+    },
+    {
+      "id": 17956026850,
+      "type": "ride",
+      "date": "2026-04-02",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.6 km",
+        "elevation": "59 m",
+        "time": "18m"
+      },
+      "strava_url": "https://www.strava.com/activities/17956026850"
+    },
+    {
+      "id": 18413052559,
+      "type": "ride",
+      "date": "2026-05-07",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "9.6 km",
+        "elevation": "79 m",
+        "time": "1h 26m"
+      },
+      "strava_url": "https://www.strava.com/activities/18413052559"
+    },
+    {
+      "id": 18440472692,
+      "type": "ride",
+      "date": "2026-05-09",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.7 km",
+        "elevation": "21 m",
+        "time": "33m"
+      },
+      "strava_url": "https://www.strava.com/activities/18440472692"
+    },
+    {
+      "id": 18502788288,
+      "type": "ride",
+      "date": "2026-05-14",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "17.8 km",
+        "elevation": "253 m",
+        "time": "1h 50m"
+      },
+      "strava_url": "https://www.strava.com/activities/18502788288"
+    },
+    {
+      "id": 18756041391,
+      "type": "ride",
+      "date": "2026-06-02",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.0 km",
+        "elevation": "30 m",
+        "time": "16m"
+      },
+      "strava_url": "https://www.strava.com/activities/18756041391"
+    },
+    {
+      "id": 18771358853,
+      "type": "ride",
+      "date": "2026-06-03",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "19.9 km",
+        "elevation": "162 m",
+        "time": "2h 2m"
+      },
+      "strava_url": "https://www.strava.com/activities/18771358853"
+    },
+    {
+      "id": 18822362250,
+      "type": "ride",
+      "date": "2026-06-07",
+      "title": "first ride new bike",
+      "body": [],
+      "stats": {
+        "distance": "8.6 km",
+        "elevation": "149 m",
+        "time": "26m"
+      },
+      "strava_url": "https://www.strava.com/activities/18822362250"
+    },
+    {
+      "id": 18833377296,
+      "type": "ride",
+      "date": "2026-06-08",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.6 km",
+        "elevation": "66 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/18833377296"
+    },
+    {
+      "id": 18851261946,
+      "type": "ride",
+      "date": "2026-06-09",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.6 km",
+        "elevation": "57 m",
+        "time": "10m"
+      },
+      "strava_url": "https://www.strava.com/activities/18851261946"
+    },
+    {
+      "id": 18865150415,
+      "type": "ride",
+      "date": "2026-06-10",
+      "title": "Bikeabilty level 2",
+      "body": [],
+      "stats": {
+        "distance": "21.4 km",
+        "elevation": "287 m",
+        "time": "1h 50m"
+      },
+      "strava_url": "https://www.strava.com/activities/18865150415"
+    },
+    {
+      "id": 18876696531,
+      "type": "ride",
+      "date": "2026-06-11",
+      "title": "2026-06-11 08:38",
+      "body": [],
+      "stats": {
+        "distance": "16.7 km",
+        "elevation": "268 m",
+        "time": "1h 27m"
+      },
+      "strava_url": "https://www.strava.com/activities/18876696531"
+    },
+    {
+      "id": 18932308182,
+      "type": "ride",
+      "date": "2026-06-15",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.3 km",
+        "elevation": "126 m",
+        "time": "22m"
+      },
+      "strava_url": "https://www.strava.com/activities/18932308182"
+    },
+    {
+      "id": 18981239463,
+      "type": "ride",
+      "date": "2026-06-19",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "18.8 km",
+        "elevation": "232 m",
+        "time": "49m"
+      },
+      "strava_url": "https://www.strava.com/activities/18981239463"
+    },
+    {
+      "id": 19010092230,
+      "type": "ride",
+      "date": "2026-06-21",
+      "title": "2026-06-21 11:25",
+      "body": [],
+      "stats": {
+        "distance": "40.0 km",
+        "elevation": "809 m",
+        "time": "2h 13m"
+      },
+      "strava_url": "https://www.strava.com/activities/19010092230"
+    },
+    {
+      "id": 19010112828,
+      "type": "ride",
+      "date": "2026-06-21",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "40.3 km",
+        "elevation": "812 m",
+        "time": "2h 11m"
+      },
+      "strava_url": "https://www.strava.com/activities/19010112828"
+    },
+    {
+      "id": 19022213021,
+      "type": "ride",
+      "date": "2026-06-22",
+      "title": "Lunch E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "23.8 km",
+        "elevation": "528 m",
+        "time": "1h 26m"
+      },
+      "strava_url": "https://www.strava.com/activities/19022213021"
+    },
+    {
+      "id": 19231790020,
+      "type": "ride",
+      "date": "2026-07-08",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.4 km",
+        "elevation": "426 m",
+        "time": "1h 31m"
+      },
+      "strava_url": "https://www.strava.com/activities/19231790020"
+    },
+    {
+      "id": 19291084071,
+      "type": "ride",
+      "date": "2026-07-13",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.0 km",
+        "elevation": "0 m",
+        "time": "1m"
+      },
+      "strava_url": "https://www.strava.com/activities/19291084071"
+    },
+    {
+      "id": 19291193815,
+      "type": "ride",
+      "date": "2026-07-13",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.0 km",
+        "elevation": "41 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/19291193815"
+    },
+    {
+      "id": 19305518441,
+      "type": "ride",
+      "date": "2026-07-14",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.5 km",
+        "elevation": "57 m",
+        "time": "12m"
+      },
+      "strava_url": "https://www.strava.com/activities/19305518441"
+    },
+    {
+      "id": 19309443303,
+      "type": "ride",
+      "date": "2026-07-14",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.5 km",
+        "elevation": "25 m",
+        "time": "14m"
+      },
+      "strava_url": "https://www.strava.com/activities/19309443303"
+    },
+    {
+      "id": 19310246142,
+      "type": "ride",
+      "date": "2026-07-14",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "13.9 km",
+        "elevation": "204 m",
+        "time": "52m"
+      },
+      "strava_url": "https://www.strava.com/activities/19310246142"
+    },
+    {
+      "id": 19319869653,
+      "type": "ride",
+      "date": "2026-07-15",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.7 km",
+        "elevation": "64 m",
+        "time": "14m"
+      },
+      "strava_url": "https://www.strava.com/activities/19319869653"
+    },
+    {
+      "id": 19321943703,
+      "type": "ride",
+      "date": "2026-07-15",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.0 km",
+        "elevation": "16 m",
+        "time": "9m"
+      },
+      "strava_url": "https://www.strava.com/activities/19321943703"
+    },
+    {
+      "id": 19324179242,
+      "type": "ride",
+      "date": "2026-07-15",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "13.1 km",
+        "elevation": "145 m",
+        "time": "51m"
+      },
+      "strava_url": "https://www.strava.com/activities/19324179242"
+    },
+    {
+      "id": 19333321024,
+      "type": "ride",
+      "date": "2026-07-16",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.3 km",
+        "elevation": "75 m",
+        "time": "18m"
+      },
+      "strava_url": "https://www.strava.com/activities/19333321024"
+    },
+    {
+      "id": 19335221456,
+      "type": "ride",
+      "date": "2026-07-16",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.8 km",
+        "elevation": "21 m",
+        "time": "16m"
+      },
+      "strava_url": "https://www.strava.com/activities/19335221456"
+    },
+    {
+      "id": 19335802278,
+      "type": "ride",
+      "date": "2026-07-16",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.0 km",
+        "elevation": "94 m",
+        "time": "20m"
+      },
+      "strava_url": "https://www.strava.com/activities/19335802278"
+    },
+    {
+      "id": 19359675631,
+      "type": "ride",
+      "date": "2026-07-18",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "22.5 km",
+        "elevation": "445 m",
+        "time": "1h 8m"
+      },
+      "strava_url": "https://www.strava.com/activities/19359675631"
+    },
+    {
+      "id": 19363646061,
+      "type": "ride",
+      "date": "2026-07-18",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.3 km",
+        "elevation": "20 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/19363646061"
+    },
+    {
+      "id": 19365616461,
+      "type": "ride",
+      "date": "2026-07-18",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "20.5 km",
+        "elevation": "380 m",
+        "time": "1h 1m"
+      },
+      "strava_url": "https://www.strava.com/activities/19365616461"
+    },
+    {
+      "id": 19403674871,
+      "type": "ride",
+      "date": "2026-07-21",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "82.8 km",
+        "elevation": "825 m",
+        "time": "3h 34m"
+      },
+      "strava_url": "https://www.strava.com/activities/19403674871"
+    },
+    {
+      "id": 19428826375,
+      "type": "ride",
+      "date": "2026-07-22",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.8 km",
+        "elevation": "23 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/19428826375"
+    },
+    {
+      "id": 19434145637,
+      "type": "ride",
+      "date": "2026-07-23",
+      "title": "Ride to where I worked for 5 years, and got married over a weekend",
+      "body": [],
+      "stats": {
+        "distance": "121.3 km",
+        "elevation": "1774 m",
+        "time": "5h 28m"
+      },
+      "strava_url": "https://www.strava.com/activities/19434145637"
+    },
+    {
+      "id": 19462653577,
+      "type": "ride",
+      "date": "2026-07-25",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.2 km",
+        "elevation": "36 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/19462653577"
+    },
+    {
+      "id": 19476973774,
+      "type": "ride",
+      "date": "2026-07-26",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.0 km",
+        "elevation": "28 m",
+        "time": "7m"
+      },
+      "strava_url": "https://www.strava.com/activities/19476973774"
+    },
+    {
+      "id": 19488336576,
+      "type": "ride",
+      "date": "2026-07-27",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "126.4 km",
+        "elevation": "1538 m",
+        "time": "5h 28m"
+      },
+      "strava_url": "https://www.strava.com/activities/19488336576"
+    },
+    {
+      "id": 19529831382,
+      "type": "ride",
+      "date": "2026-07-30",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.9 km",
+        "elevation": "37 m",
+        "time": "16m"
+      },
+      "strava_url": "https://www.strava.com/activities/19529831382"
+    },
+    {
+      "id": 19539857196,
+      "type": "ride",
+      "date": "2026-07-31",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.5 km",
+        "elevation": "7 m",
+        "time": "2m"
+      },
+      "strava_url": "https://www.strava.com/activities/19539857196"
+    },
+    {
+      "id": 19539861883,
+      "type": "ride",
+      "date": "2026-07-31",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.5 km",
+        "elevation": "6 m",
+        "time": "2m"
+      },
+      "strava_url": "https://www.strava.com/activities/19539861883"
+    },
+    {
+      "id": 19545719083,
+      "type": "ride",
+      "date": "2026-07-31",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "3.4 km",
+        "elevation": "41 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/19545719083"
+    },
+    {
+      "id": 19547046455,
+      "type": "ride",
+      "date": "2026-07-31",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.0 km",
+        "elevation": "16 m",
+        "time": "4m"
+      },
+      "strava_url": "https://www.strava.com/activities/19547046455"
+    },
+    {
+      "id": 19551560554,
+      "type": "ride",
+      "date": "2026-08-01",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.8 km",
+        "elevation": "33 m",
+        "time": "7m"
+      },
+      "strava_url": "https://www.strava.com/activities/19551560554"
+    },
+    {
+      "id": 19559621191,
+      "type": "ride",
+      "date": "2026-08-01",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.8 km",
+        "elevation": "31 m",
+        "time": "7m"
+      },
+      "strava_url": "https://www.strava.com/activities/19559621191"
+    },
+    {
+      "id": 19573424321,
+      "type": "ride",
+      "date": "2026-08-02",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.1 km",
+        "elevation": "16 m",
+        "time": "4m"
+      },
+      "strava_url": "https://www.strava.com/activities/19573424321"
+    },
+    {
+      "id": 19646277516,
+      "type": "ride",
+      "date": "2026-08-04",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.8 km",
+        "elevation": "94 m",
+        "time": "21m"
+      },
+      "strava_url": "https://www.strava.com/activities/19646277516"
+    },
+    {
+      "id": 19624341585,
+      "type": "ride",
+      "date": "2026-08-06",
+      "title": "Morning E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.9 km",
+        "elevation": "32 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/19624341585"
+    },
+    {
+      "id": 19657815920,
+      "type": "ride",
+      "date": "2026-08-08",
+      "title": "Silly named places generated this oddly shaped ride",
+      "body": [],
+      "stats": {
+        "distance": "128.9 km",
+        "elevation": "1173 m",
+        "time": "5h 48m"
+      },
+      "strava_url": "https://www.strava.com/activities/19657815920"
+    },
+    {
+      "id": 19665713294,
+      "type": "ride",
+      "date": "2026-08-09",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "6.4 km",
+        "elevation": "47 m",
+        "time": "19m"
+      },
+      "strava_url": "https://www.strava.com/activities/19665713294"
+    },
+    {
+      "id": 19670326151,
+      "type": "ride",
+      "date": "2026-08-09",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "5.7 km",
+        "elevation": "43 m",
+        "time": "18m"
+      },
+      "strava_url": "https://www.strava.com/activities/19670326151"
+    },
+    {
+      "id": 19679365442,
+      "type": "ride",
+      "date": "2026-08-10",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.4 km",
+        "elevation": "9 m",
+        "time": "11m"
+      },
+      "strava_url": "https://www.strava.com/activities/19679365442"
+    },
+    {
+      "id": 19692711276,
+      "type": "ride",
+      "date": "2026-08-10",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.0 km",
+        "elevation": "0 m",
+        "time": "3m"
+      },
+      "strava_url": "https://www.strava.com/activities/19692711276"
+    },
+    {
+      "id": 19692711061,
+      "type": "ride",
+      "date": "2026-08-10",
+      "title": "Evening Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.8 km",
+        "elevation": "36 m",
+        "time": "7m"
+      },
+      "strava_url": "https://www.strava.com/activities/19692711061"
+    },
+    {
+      "id": 19808915235,
+      "type": "ride",
+      "date": "2026-08-19",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "38.2 km",
+        "elevation": "807 m",
+        "time": "1h 60m"
+      },
+      "strava_url": "https://www.strava.com/activities/19808915235"
+    },
+    {
+      "id": 19810464164,
+      "type": "ride",
+      "date": "2026-08-19",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "23.2 km",
+        "elevation": "135 m",
+        "time": "1h 18m"
+      },
+      "strava_url": "https://www.strava.com/activities/19810464164"
+    },
+    {
+      "id": 19813383692,
+      "type": "ride",
+      "date": "2026-08-19",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "32.2 km",
+        "elevation": "716 m",
+        "time": "2h 13m"
+      },
+      "strava_url": "https://www.strava.com/activities/19813383692"
+    },
+    {
+      "id": 20043483605,
+      "type": "ride",
+      "date": "2026-09-05",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "19.9 km",
+        "elevation": "472 m",
+        "time": "1h 1m"
+      },
+      "strava_url": "https://www.strava.com/activities/20043483605"
+    },
+    {
+      "id": 20048914349,
+      "type": "ride",
+      "date": "2026-09-05",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "7.1 km",
+        "elevation": "71 m",
+        "time": "38m"
+      },
+      "strava_url": "https://www.strava.com/activities/20048914349"
+    },
+    {
+      "id": 20050790383,
+      "type": "ride",
+      "date": "2026-09-05",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "22.4 km",
+        "elevation": "496 m",
+        "time": "1h 6m"
+      },
+      "strava_url": "https://www.strava.com/activities/20050790383"
+    },
+    {
+      "id": 20089609183,
+      "type": "ride",
+      "date": "2026-09-08",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.6 km",
+        "elevation": "52 m",
+        "time": "8m"
+      },
+      "strava_url": "https://www.strava.com/activities/20089609183"
+    },
+    {
+      "id": 20089615688,
+      "type": "ride",
+      "date": "2026-09-08",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.3 km",
+        "elevation": "23 m",
+        "time": "7m"
+      },
+      "strava_url": "https://www.strava.com/activities/20089615688"
+    }
+  ]
 }
