@@ -1,0 +1,33 @@
+[
+  {
+    "type": "ride",
+    "date": "2026-08-30",
+    "title": "Coastal loop out past the headland",
+    "body": [
+      "Set off early to beat the wind and it mostly paid off — flat calm for the first hour, then a headwind the whole way back that turned the last climb into a proper effort.",
+      "Stopped at the usual bench for coffee from the flask. Worth doing again."
+    ],
+    "stats": { "distance": "42 km", "elevation": "380 m", "time": "1h 48m" },
+    "strava_embed_url": "",
+    "komoot_url": ""
+  },
+  {
+    "type": "life",
+    "date": "2026-08-27",
+    "title": "New bike lights arrived",
+    "body": [
+      "Finally replaced the front light that's been dying halfway through every ride. First proper test tonight — should make the darker mornings less of a guessing game."
+    ]
+  },
+  {
+    "type": "ride",
+    "date": "2026-08-22",
+    "title": "Slow one up the valley",
+    "body": [
+      "Not a fast ride, just a needed one. Took the long way up the valley, stopped a lot, took photos of not much in particular."
+    ],
+    "stats": { "distance": "28 km", "elevation": "510 m", "time": "1h 35m" },
+    "strava_embed_url": "",
+    "komoot_url": "https://www.komoot.com/tour/example"
+  }
+]

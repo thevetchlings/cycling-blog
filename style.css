@@ -1,0 +1,241 @@
+:root {
+  --ink: #232b23;
+  --paper: #e7e2d2;
+  --paper-raised: #f0ecdf;
+  --rust: #b5482b;
+  --moss: #4b6b4e;
+  --mustard: #c9a227;
+  --line: #c9c2a8;
+  --text-soft: #5a5f4f;
+}
+
+* { box-sizing: border-box; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-feature-settings: "tnum" 1;
+  line-height: 1.5;
+}
+
+/* ---------- Masthead ---------- */
+
+.masthead {
+  padding: 3.5rem 1.5rem 0;
+  max-width: 700px;
+  margin: 0 auto;
+  border-bottom: 1px solid var(--line);
+}
+
+.masthead-inner { padding-bottom: 1.5rem; }
+
+.wordmark {
+  font-family: 'Fraunces', serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-size: clamp(2.4rem, 6vw, 3.4rem);
+  margin: 0;
+  letter-spacing: -0.01em;
+  color: var(--ink);
+}
+
+.subhead {
+  margin: 0.4rem 0 0;
+  color: var(--text-soft);
+  font-size: 1.05rem;
+  max-width: 34ch;
+}
+
+.filter-row {
+  display: flex;
+  gap: 1.5rem;
+  padding-bottom: 0;
+}
+
+.filter-btn {
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  font-family: inherit;
+  font-size: 0.92rem;
+  color: var(--text-soft);
+  padding: 0 0 0.8rem;
+  cursor: pointer;
+}
+
+.filter-btn.active {
+  color: var(--ink);
+  border-bottom-color: var(--rust);
+  font-weight: 500;
+}
+
+.filter-btn:hover { color: var(--ink); }
+.filter-btn:focus-visible { outline: 2px solid var(--rust); outline-offset: 3px; }
+
+/* ---------- Log feed ---------- */
+
+.log {
+  position: relative;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 1.5rem 4rem;
+}
+
+.log-line {
+  position: absolute;
+  left: 1.5rem;
+  top: 0;
+  bottom: 4rem;
+  width: 1px;
+  background: repeating-linear-gradient(
+    to bottom,
+    var(--line) 0,
+    var(--line) 4px,
+    transparent 4px,
+    transparent 9px
+  );
+}
+
+#entries { padding-left: 2.4rem; }
+
+.entry {
+  position: relative;
+  padding: 2.2rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.entry:last-child { border-bottom: none; }
+
+.entry::before {
+  content: '';
+  position: absolute;
+  left: -2.4rem;
+  top: 2.6rem;
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: var(--paper);
+  border: 2px solid var(--rust);
+}
+
+.entry.type-life::before { border-color: var(--moss); }
+
+.entry-meta {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.entry-date {
+  font-size: 0.85rem;
+  color: var(--text-soft);
+}
+
+.entry-tag {
+  font-size: 0.72rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+  color: var(--paper);
+  background: var(--rust);
+}
+
+.entry.type-life .entry-tag { background: var(--moss); }
+
+.entry-title {
+  font-family: 'Fraunces', serif;
+  font-weight: 500;
+  font-size: 1.5rem;
+  margin: 0 0 0.5rem;
+  line-height: 1.2;
+}
+
+.entry-body {
+  max-width: 62ch;
+  color: var(--ink);
+}
+
+.entry-body p { margin: 0 0 0.8rem; }
+
+/* Stats bar for rides */
+.stats-bar {
+  display: flex;
+  gap: 1.6rem;
+  margin: 0.9rem 0 1.1rem;
+  padding: 0.8rem 1rem;
+  background: var(--paper-raised);
+  border-left: 3px solid var(--rust);
+  border-radius: 2px;
+  flex-wrap: wrap;
+}
+
+.stat { display: flex; flex-direction: column; }
+
+.stat-value {
+  font-size: 1.15rem;
+  font-weight: 600;
+  font-feature-settings: "tnum" 1;
+}
+
+.stat-label {
+  font-size: 0.72rem;
+  color: var(--text-soft);
+}
+
+.embed-wrap {
+  margin: 1rem 0;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.embed-wrap iframe {
+  display: block;
+  width: 100%;
+  border: none;
+}
+
+.route-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.9rem;
+  color: var(--moss);
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
+}
+
+.route-link:hover { color: var(--rust); }
+
+.entry.hidden { display: none; }
+
+/* ---------- Footer ---------- */
+
+.site-footer {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+  color: var(--text-soft);
+  font-size: 0.85rem;
+}
+
+.site-footer code {
+  background: var(--paper-raised);
+  padding: 0.1rem 0.35rem;
+  border-radius: 3px;
+}
+
+@media (max-width: 480px) {
+  .masthead { padding-top: 2.2rem; }
+  .log-line { left: 1rem; }
+  #entries { padding-left: 1.8rem; }
+  .entry::before { left: -1.8rem; }
+}
