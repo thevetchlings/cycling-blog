@@ -1,0 +1,35 @@
+name: Sync Strava rides
+
+on:
+  schedule:
+    # Runs once a day at 06:00 UTC. Edit the cron expression to change timing.
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}  # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Strava sync
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+        run: node scripts/sync-strava.js
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "strava-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add strava-rides.json
+          git diff --staged --quiet || git commit -m "Sync Strava rides"
+          git push
