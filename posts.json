@@ -7,7 +7,11 @@
       "Set off early to beat the wind and it mostly paid off — flat calm for the first hour, then a headwind the whole way back that turned the last climb into a proper effort.",
       "Stopped at the usual bench for coffee from the flask. Worth doing again."
     ],
-    "stats": { "distance": "42 km", "elevation": "380 m", "time": "1h 48m" },
+    "stats": {
+      "distance": "42 km",
+      "elevation": "380 m",
+      "time": "1h 48m"
+    },
     "strava_embed_url": "",
     "komoot_url": ""
   },
@@ -26,8 +30,20 @@
     "body": [
       "Not a fast ride, just a needed one. Took the long way up the valley, stopped a lot, took photos of not much in particular."
     ],
-    "stats": { "distance": "28 km", "elevation": "510 m", "time": "1h 35m" },
+    "stats": {
+      "distance": "28 km",
+      "elevation": "510 m",
+      "time": "1h 35m"
+    },
     "strava_embed_url": "",
     "komoot_url": "https://www.komoot.com/tour/example"
+  },
+  {
+    "type": "life",
+    "date": "2026-09-11",
+    "title": "Last day at Whitleigh",
+    "body": [
+      "An unexpected bonus day at Whitleigh"
+    ]
   }
 ]
