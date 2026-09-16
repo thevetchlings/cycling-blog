@@ -1,5 +1,5 @@
 {
-  "last_synced": 1789471789,
+  "last_synced": 1789557344,
   "rides": [
     {
       "id": 906829523,
@@ -4992,6 +4992,45 @@
         "time": "9m"
       },
       "strava_url": "https://www.strava.com/activities/20183221607"
+    },
+    {
+      "id": 20185561450,
+      "type": "ride",
+      "date": "2026-09-15",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.5 km",
+        "elevation": "6 m",
+        "time": "4m"
+      },
+      "strava_url": "https://www.strava.com/activities/20185561450"
+    },
+    {
+      "id": 20185561619,
+      "type": "ride",
+      "date": "2026-09-15",
+      "title": "Afternoon Gravel Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.6 km",
+        "elevation": "105 m",
+        "time": "18m"
+      },
+      "strava_url": "https://www.strava.com/activities/20185561619"
+    },
+    {
+      "id": 20196217873,
+      "type": "ride",
+      "date": "2026-09-16",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "2.4 km",
+        "elevation": "46 m",
+        "time": "7m"
+      },
+      "strava_url": "https://www.strava.com/activities/20196217873"
     }
   ]
 }
