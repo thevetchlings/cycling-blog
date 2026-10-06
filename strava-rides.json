@@ -1,5 +1,5 @@
 {
-  "last_synced": 1791209614,
+  "last_synced": 1791292123,
   "rides": [
     {
       "id": 906829523,
@@ -5070,6 +5070,19 @@
         "time": "38m"
       },
       "strava_url": "https://www.strava.com/activities/20379206567"
+    },
+    {
+      "id": 20472748365,
+      "type": "ride",
+      "date": "2026-10-06",
+      "title": "Lunch Ride",
+      "body": [],
+      "stats": {
+        "distance": "0.2 km",
+        "elevation": "8 m",
+        "time": "2m"
+      },
+      "strava_url": "https://www.strava.com/activities/20472748365"
     }
   ]
 }
