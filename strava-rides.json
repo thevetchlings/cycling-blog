@@ -1,5 +1,5 @@
 {
-  "last_synced": 1792062749,
+  "last_synced": 1792148822,
   "rides": [
     {
       "id": 906829523,
@@ -5135,6 +5135,19 @@
         "time": "34m"
       },
       "strava_url": "https://www.strava.com/activities/20580417352"
+    },
+    {
+      "id": 20605467898,
+      "type": "ride",
+      "date": "2026-10-16",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.3 km",
+        "elevation": "66 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/20605467898"
     }
   ]
 }
