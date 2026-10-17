@@ -1,5 +1,5 @@
 {
-  "last_synced": 1792148822,
+  "last_synced": 1792232805,
   "rides": [
     {
       "id": 906829523,
@@ -5148,6 +5148,19 @@
         "time": "13m"
       },
       "strava_url": "https://www.strava.com/activities/20605467898"
+    },
+    {
+      "id": 20609270965,
+      "type": "ride",
+      "date": "2026-10-16",
+      "title": "Afternoon Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.5 km",
+        "elevation": "65 m",
+        "time": "13m"
+      },
+      "strava_url": "https://www.strava.com/activities/20609270965"
     }
   ]
 }
