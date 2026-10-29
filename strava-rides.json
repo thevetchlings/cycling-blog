@@ -1,5 +1,5 @@
 {
-  "last_synced": 1793190680,
+  "last_synced": 1793277755,
   "rides": [
     {
       "id": 906829523,
@@ -5200,6 +5200,19 @@
         "time": "20m"
       },
       "strava_url": "https://www.strava.com/activities/20698982177"
+    },
+    {
+      "id": 20768658440,
+      "type": "ride",
+      "date": "2026-10-28",
+      "title": "Afternoon E-Bike Ride",
+      "body": [],
+      "stats": {
+        "distance": "4.5 km",
+        "elevation": "52 m",
+        "time": "16m"
+      },
+      "strava_url": "https://www.strava.com/activities/20768658440"
     }
   ]
 }
