@@ -1,5 +1,5 @@
 {
-  "last_synced": 1793538024,
+  "last_synced": 1793632929,
   "rides": [
     {
       "id": 906829523,
@@ -5252,6 +5252,45 @@
         "time": "1h 9m"
       },
       "strava_url": "https://www.strava.com/activities/20807479499"
+    },
+    {
+      "id": 20825820602,
+      "type": "ride",
+      "date": "2026-11-02",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "1.6 km",
+        "elevation": "15 m",
+        "time": "5m"
+      },
+      "strava_url": "https://www.strava.com/activities/20825820602"
+    },
+    {
+      "id": 20826145327,
+      "type": "ride",
+      "date": "2026-11-02",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "8.8 km",
+        "elevation": "212 m",
+        "time": "27m"
+      },
+      "strava_url": "https://www.strava.com/activities/20826145327"
+    },
+    {
+      "id": 20828341243,
+      "type": "ride",
+      "date": "2026-11-02",
+      "title": "Morning Ride",
+      "body": [],
+      "stats": {
+        "distance": "24.9 km",
+        "elevation": "554 m",
+        "time": "1h 17m"
+      },
+      "strava_url": "https://www.strava.com/activities/20828341243"
     }
   ]
 }
